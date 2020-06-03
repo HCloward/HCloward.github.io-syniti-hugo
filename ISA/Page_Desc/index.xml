@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Syniti Documentation</title>
-    <link>https://hcloward.github.io/ISA/Page_Desc/</link>
+    <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/</link>
     <description>Recent content in Pages on Syniti Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://hcloward.github.io/ISA/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Distribution_Workflow_Attachment_Option/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Distribution_Workflow_Attachment_Option/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Distribution_Workflow_Attachment_Option/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Distribution_Workflow_Attachment_Option/</guid>
       <description>Distribution Workflow Attachment Option Use this page to Configure Workflow Options.
 To access this page:
  Select Information Steward Accelerator &amp;gt; Configurationfrom Navigation pane. Click the Distribution Workflow Optionsicon.           Field Description   PROJECT ID Displays the name of the project added in Information Steward and loaded into ISA.   PROJECT DISTRIBUTION ID Displays the name of the Project Distribution to which the selected user is assigned.</description>
@@ -23,20 +23,20 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Edit_Workflow_Templates/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Edit_Workflow_Templates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Edit_Workflow_Templates/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Edit_Workflow_Templates/</guid>
       <description>Edit Workflow Templates Use this page to View and Edit All Workflow Templates From One Page.
 To access this page, select Information Steward Accelerator &amp;gt; Configuration &amp;gt; Edit Workflow Templatesin the Navigation pane.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/ISA_Parameters/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/ISA_Parameters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/ISA_Parameters/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/ISA_Parameters/</guid>
       <description>Parameters Use this page to:
  Configure Workflow Templates at the Parameter Level Set Parameters  To access this page, select Information Steward Accelerator &amp;gt; Configuration &amp;gt; Parametersin Navigation pane.
 This page has the following tabs:
@@ -45,10 +45,10 @@ This page has the following tabs:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Log_ISA/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Log_ISA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Log_ISA/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Log_ISA/</guid>
       <description>Log Use this page to View ISA Log.
 To access this page:
 Select Information Steward Accelerator &amp;gt;Advanced &amp;gt; Logfrom the Navigation pane.
@@ -59,10 +59,10 @@ Select Information Steward Accelerator &amp;gt;Configuration &amp;gt; Parameters
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Metric_Summary_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Metric_Summary_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Metric_Summary_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Metric_Summary_H/</guid>
       <description>Metric Summary H Metric Summary VUse this page to Download ISA Metrics Summary Information.
 To access this page, select Information Steward Accelerator &amp;gt;Advanced &amp;gt; Metric Summary in the Navigation pane.
 NOTE:The rules that display on this page depend on how the page is accessed.
@@ -71,10 +71,10 @@ NOTE:The rules that display on this page depend on how the page is accessed.
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Attribute_Value/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Attribute_Value/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Attribute_Value/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Attribute_Value/</guid>
       <description>Project Distribution Attribute Values Use this page to Assign Project Distribution Rules using Custom Attributes.
 To access this page:
  Click Information Steward Accelerator &amp;gt; Project Summaryin the Navigation pane. Click Distributionsfor a project. Click Custom Attributesfor a distribution. Click Valuesfor a rule.           Field Descriptions   PROJECT Display the project name that contains the selected project distribution.   ATTRIBUTE Displays the name of the attribute as added in IS.</description>
@@ -82,10 +82,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Attribute_Value_Rules/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Attribute_Value_Rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Attribute_Value_Rules/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Attribute_Value_Rules/</guid>
       <description>Project Distribution Attribute Value Rules Use this page to Assign Project Distribution Rules using Custom Attributes.
 To access this page:
  Click Information Steward Accelerator &amp;gt; Project Summary in the Navigation pane. Click Distributionsfor a project. Click Custom Attributesfor a distribution. Click Valuesfor a rule. Click Rule Count.           Field Descriptions   Add Click to add the selected rule to the project distribution.</description>
@@ -93,10 +93,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Attributes/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Attributes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Attributes/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Attributes/</guid>
       <description>Project Distribution Attributes Use this page to Assign Project Distribution Rules using Custom Attributes.
 To access this page:
  Click Information Steward Accelerator &amp;gt; Project Summaryin the Navigation pane. Click Distributionsfor a project. Click Custom Attributesfor a distribution.           Field Descriptions   PROJECT Display the project name that contains the selected project distribution.   ATTRIBUTE Displays the name of the attribute as added in IS.</description>
@@ -104,10 +104,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Filters/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Filters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Filters/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Filters/</guid>
       <description>Project Distribution Filters Use this page to Configure Project Distribution Filters.
 To access this page:
  Select Information Steward Accelerator &amp;gt; Project Summaryfrom Navigation pane. Click Distributionsfor a project. Click Filtersfor a distribution.           Field Description   PROJECT DISTRIBUTION ID Displays the distribution name that contains the filter.   FIELD Displays the name of the field that will be filtered.</description>
@@ -115,10 +115,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Reports/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Reports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Reports/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Reports/</guid>
       <description>Project Distribution Reports Use this page to View Reports for Project Distributions.
 To access this page:
  Click Information Steward Accelerator &amp;gt; Report Data Viewerin Navigation pane. Click Reportsfor a project distribution.  </description>
@@ -126,10 +126,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Rule_Bindings/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Rule_Bindings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Rule_Bindings/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Rule_Bindings/</guid>
       <description>Project Distribution Rule Bindings Use this page to:
  View Rule Bindings Deactivate Columns for Project Distribution Rule Bindings Edit Rule Binding Descriptions, Implication and Recommendation  To access this page:
  Click Information Steward Accelerator &amp;gt; Project Summaryin the Navigation pane. Click Distributionsfor a project. Click Rulesfor a distribution. Click Bindingsfor a rule.  </description>
@@ -137,10 +137,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Rules/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Rules/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Rules/</guid>
       <description>Project Distribution Rules Use this page to Add Rules to a Project Distribution
 To access this page:
  Click Information Steward Accelerator &amp;gt; Project Summaryin the Navigation pane. Click Distributionsfor a project. Click Rulesfor a distribution.           Field Description   RULE ID Displays the name of the rule created in IS that will be run for the project Distribution. All rules created in IS with a rule status of Approved are available to be selected, regardless of the project.</description>
@@ -148,10 +148,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_User_Filters/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_User_Filters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_User_Filters/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_User_Filters/</guid>
       <description>Project Distribution User Filters Use this page to set user filters at the project distribution level.
 To access this page:
  Select Project Summary in the Navigation pane. Click the Distributions icon for a project. Click the User icon for a project distribution. Click the Filters icon for a user.           Field Description   FIELD Displays the name of the field that will be filtered for the project distribution.</description>
@@ -159,10 +159,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Users/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Users/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Distribution_Users/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distribution_Users/</guid>
       <description>Project Distribution Users Use this page to Add Users to a Project Distribution.
 To access this page:
  Select Information Steward Accelerator &amp;gt; Project Summary in the Navigation pane. Click the Usersicon.  NOTE:Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.</description>
@@ -170,10 +170,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Distributions_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distributions_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Distributions_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Distributions_H/</guid>
       <description>Project Distributions H Project Distributions V
 Use this page to Add Distributions to a Project.
 To access this page:
@@ -182,10 +182,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Quality_Dimension_Rules/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Quality_Dimension_Rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Quality_Dimension_Rules/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Quality_Dimension_Rules/</guid>
       <description>Project Quality Dimension Rules Use this page to Add Rules Using Quality Dimensions.
 To access this page:
  Click Information Steward Accelerator &amp;gt; Project Summary in Navigation pane. Click Distributionsfor a project. Click Quality Dimensionsfor a Distribution. Click Rule Count for a Quality Dimensionto see all the rules currently assigned to the project-Quality Dimension combination.           Field Description   Add Click to add the rule to the Project Distribution.</description>
@@ -193,10 +193,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Quality_Dimensions/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Quality_Dimensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Quality_Dimensions/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Quality_Dimensions/</guid>
       <description>Project Quality Dimensions Use this page to View Quality Dimensions by Project.
 To access this page:
  Click Information Steward Accelerator &amp;gt; Project Summaryin Navigation pane. Click Distributionsfor a project. Click Quality Dimensionsfor a Distribution.           Field Description   PROJECT Displays the name of the project added in Information Steward and loaded into ISA.   QUALITY DIMENSION Displays the Quality Dimension assigned to the rules in the project.</description>
@@ -204,10 +204,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Project_Summary_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Summary_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Project_Summary_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Project_Summary_H/</guid>
       <description>Project Summary H Project Summary V
 Use this page to:
  Update the Scorecard Link Run Rules and Send Workflows On Demand  To access this page, select Information Steward Accelerator &amp;gt; Project Summary in the Navigation pane.
@@ -222,10 +222,10 @@ Days To Retain Metrics</description>
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Report_Data_Viewer/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Report_Data_Viewer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Report_Data_Viewer/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Report_Data_Viewer/</guid>
       <description>Report Data Viewer H Report Data Viewer V
 Use this page to Create a Request in dspCompose™ From the ISA Report Data Viewer Page.
 To access this page, select Information Steward Accelerator &amp;gt; Report Data Viewerin the Navigation pane.
@@ -234,10 +234,10 @@ Report Data Viewer ISA V Report Data Viewer ISA H</description>
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Rule_Binding_Detail/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Rule_Binding_Detail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Rule_Binding_Detail/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Rule_Binding_Detail/</guid>
       <description>Rule Binding Detail Use this page to Edit Rule Binding Descriptions, Implication and Recommendation.
 To access this page:
   Click Information Steward Accelerator &amp;gt; Project Summary in the Navigation pane.
@@ -250,10 +250,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Rule_Binding_List/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Rule_Binding_List/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Rule_Binding_List/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Rule_Binding_List/</guid>
       <description>Rule Binding List Use this page to view a list of rule bindings associated with a project.
 To access this page:
  Click Information Steward Accelerator &amp;gt; Project Summaryin the Navigation pane. Click All Rule Bindingsfor a project.  </description>
@@ -261,10 +261,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Template_ISA_External_Request_Scenario_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Template_ISA_External_Request_Scenario_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Template_ISA_External_Request_Scenario_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Template_ISA_External_Request_Scenario_H/</guid>
       <description>Template (ISA External Request Scenario) H Template (ISA External Request Scenario) V
 Use this page to Create an External Request Scenario for an Information Steward-initiated Request.To access this page:
  Select dspCompose &amp;gt; Teamon the Navigation pane. Click Templatesfor a team. Click the ISA External Request Scenariosicon.   Template (ISA External Request Scenario) V Template (ISA External Request Scenario) H
@@ -273,20 +273,20 @@ Use this page to Create an External Request Scenario for an Information Steward-
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Users_ISA/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Users_ISA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Users_ISA/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Users_ISA/</guid>
       <description>Users Use this page to Configure Workflow Options.
 To access this page, select Information Steward Accelerator &amp;gt; Configurationfrom Navigation pane.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Workflow_H_ISA/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Workflow_H_ISA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Workflow_H_ISA/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Workflow_H_ISA/</guid>
       <description>Workflow H Workflow V
 Use this page to View a User’s Workflows.
 To access this page:
@@ -295,10 +295,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Workflow_Template/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Workflow_Template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Workflow_Template/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Workflow_Template/</guid>
       <description>Workflow Template Use this page to Create Language-specific Workflow Email Templates.
 To access this page:
  Select Information Steward Accelerator &amp;gt; Configuration &amp;gt; Parametersin the Navigation pane. Click the Attachment Settingstab or Summary Settingstab. Click Attachment Workflow Translationor Summary Workflow Translation.           Field Description   LANGUAGE ID Displays the language used in the workflow email.   SUBJECT Displays the subject line of the workflow email.</description>
@@ -306,10 +306,10 @@ To access this page:
     
     <item>
       <title></title>
-      <link>https://hcloward.github.io/ISA/Page_Desc/Workflow_Template_Detail/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Workflow_Template_Detail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/ISA/Page_Desc/Workflow_Template_Detail/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/ISA/Page_Desc/Workflow_Template_Detail/</guid>
       <description>Workflow Template Detail Use this page to View and Edit All Workflow Templates From One Page.
 To access this page:
  Select Information Steward Accelerator &amp;gt; Configuration &amp;gt; Edit Workflow Parametersin the Navigation pane. Click the Templateicon for a template.           Field Description   SUBJECT Displays the subject line of the workflow email.   BODY Displays the body of the workflow email.</description>

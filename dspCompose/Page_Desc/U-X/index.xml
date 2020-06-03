@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>U-X on Syniti Documentation</title>
-    <link>https://hcloward.github.io/dspCompose/Page_Desc/U-X/</link>
+    <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/</link>
     <description>Recent content in U-X on Syniti Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://hcloward.github.io/dspCompose/Page_Desc/U-X/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>User (Org Unit Assignments)</title>
-      <link>https://hcloward.github.io/dspCompose/Page_Desc/U-X/User_Org_Unit_Assignments/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/User_Org_Unit_Assignments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/dspCompose/Page_Desc/U-X/User_Org_Unit_Assignments/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/User_Org_Unit_Assignments/</guid>
       <description>User (Org Unit Assignments) Use this page to Assign Users to Org Units.
 To access this page:
  SelectdspCompose &amp;gt; Configuration &amp;gt; Userson *Navigation *pane. ClickOrg Unitsfor a user. Click Assignmentsfor an Org Unit.           Field Description   Select All Click to assign all Org Units to the selected user.   Unselect All Click to unassign all Org Units for the selected user.</description>
@@ -23,10 +23,10 @@ To access this page:
     
     <item>
       <title>User (Org Units)</title>
-      <link>https://hcloward.github.io/dspCompose/Page_Desc/U-X/User_Org_Units/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/User_Org_Units/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/dspCompose/Page_Desc/U-X/User_Org_Units/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/User_Org_Units/</guid>
       <description>User (Org Units) Use this page to Assign Users to Org Units.
 To access this page:
  Select dspCompose &amp;gt; Configuration &amp;gt; Userson *Navigation *pane. Click Org Unitsfor a user.           Field Description   ORG UNIT ID Displays name of Org Unit.   Assignments Click to open the*User (Org Unit Assignments)*page to manage Org Unit assignments for the selected user.</description>
@@ -34,10 +34,10 @@ To access this page:
     
     <item>
       <title>User H</title>
-      <link>https://hcloward.github.io/dspCompose/Page_Desc/U-X/User_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/User_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/dspCompose/Page_Desc/U-X/User_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/User_H/</guid>
       <description>User H Users V
 Use this page to:
  Add Users to dspCompose™ Set up Workflow Messages  To access this page, select dspCompose &amp;gt; Configuration &amp;gt; Usersfrom *Navigation *pane.
@@ -46,10 +46,10 @@ Use this page to:
     
     <item>
       <title>User Template Filter</title>
-      <link>https://hcloward.github.io/dspCompose/Page_Desc/U-X/User_Template_Filter/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/User_Template_Filter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/dspCompose/Page_Desc/U-X/User_Template_Filter/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/User_Template_Filter/</guid>
       <description>User Template Filter Use this page to Create Review Filters.
 To access this page:
  ClickdspCompose &amp;gt; Teamon *Navigation *pane. ClickTemplatesfor a team. Click Usersfor a template. Click Review Filterfor a user.           Field Description   COLUMN NAME Displays column name used in the comparison operation to limit data within the view being changed.   CONDITIONAL Displays operation used to link the COLUMN NAME and the VALUE fields.</description>
@@ -57,10 +57,10 @@ To access this page:
     
     <item>
       <title>User Template Role Access</title>
-      <link>https://hcloward.github.io/dspCompose/Page_Desc/U-X/User_Template_Role_Access/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/User_Template_Role_Access/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/dspCompose/Page_Desc/U-X/User_Template_Role_Access/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/User_Template_Role_Access/</guid>
       <description>User Template Role Access Use this page to
  Add Users to Templates Grant Template Access at the Global Level  To access this page:
  Select dspCompose &amp;gt; Configuration &amp;gt; Usersfrom *Navigation *pane. Click Templatesfor a user.           Field Description   TEMPLATE Displays name of template for which security is to be set.   ROLE ID Displays role for the template.</description>
@@ -68,10 +68,10 @@ To access this page:
     
     <item>
       <title>Workflow Language Message H</title>
-      <link>https://hcloward.github.io/dspCompose/Page_Desc/U-X/Workflow_Language_Message_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/Workflow_Language_Message_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/dspCompose/Page_Desc/U-X/Workflow_Language_Message_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/Workflow_Language_Message_H/</guid>
       <description>Workflow Language Message H Workflow Language Message V
 Use this page to Configure Workflow Messages and Update the EMAIL FROM column.
 To access this page:
@@ -80,10 +80,10 @@ To access this page:
     
     <item>
       <title>Workflow Message</title>
-      <link>https://hcloward.github.io/dspCompose/Page_Desc/U-X/Workflow_Message/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/Workflow_Message/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/dspCompose/Page_Desc/U-X/Workflow_Message/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/dspCompose/Page_Desc/U-X/Workflow_Message/</guid>
       <description>Workflow Message Use this page to Configure Workflow Messages.
 To access this page, select dspCompose &amp;gt; Configuration &amp;gt; Workflow Messagein the Navigation pane.</description>
     </item>

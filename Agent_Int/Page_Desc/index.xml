@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Syniti Documentation</title>
-    <link>https://hcloward.github.io/Agent_Int/Page_Desc/</link>
+    <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/</link>
     <description>Recent content in Pages on Syniti Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://hcloward.github.io/Agent_Int/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>API Ping Agent</title>
-      <link>https://hcloward.github.io/Agent_Int/Page_Desc/API_Ping_Agent/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/API_Ping_Agent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Agent_Int/Page_Desc/API_Ping_Agent/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/API_Ping_Agent/</guid>
       <description>API Ping Agent Use this page to test the BackOffice IGC Connector Agent connection to DSP.
 To access this page, navigate to Agent Interface &amp;gt; Configuration &amp;gt; APIs &amp;gt; API Ping Agent in the Navigation pane
          Field Description   Ping Agent Click to check the BackOffice IGC Connector Agent connection to the DSP.   Base URL Displays the RESTServer address for the BackOffice IGC Agent.</description>
@@ -23,19 +23,19 @@ To access this page, navigate to Agent Interface &amp;gt; Configuration &amp;gt;
     
     <item>
       <title>API Status Log</title>
-      <link>https://hcloward.github.io/Agent_Int/Page_Desc/API_Status_Log/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/API_Status_Log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Agent_Int/Page_Desc/API_Status_Log/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/API_Status_Log/</guid>
       <description>API Status Log This page is used by the BackOffice Support team while troubleshooting issues related to API calls.</description>
     </item>
     
     <item>
       <title>Data Quality Report Assignment</title>
-      <link>https://hcloward.github.io/Agent_Int/Page_Desc/Data_Quality_Report_Assignment/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/Data_Quality_Report_Assignment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Agent_Int/Page_Desc/Data_Quality_Report_Assignment/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/Data_Quality_Report_Assignment/</guid>
       <description>Data Quality Report Assignment Use this page to Configure the IGC Migration dashboard.
 To access this page:
  Select Agent Interface &amp;gt; Dashboards &amp;gt; Migration Dashboard in the Navigation pane. Click the Data Quality Report Assignment icon for a wave.  </description>
@@ -43,20 +43,20 @@ To access this page:
     
     <item>
       <title>Parameters</title>
-      <link>https://hcloward.github.io/Agent_Int/Page_Desc/Parameters/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/Parameters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Agent_Int/Page_Desc/Parameters/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/Parameters/</guid>
       <description>Parameters Use this page to add the BackOffice IGC Connector Agent URL in DSP.
 To access this page, navigate to Agent Interface &amp;gt; Configuration &amp;gt; Parameters in the Navigation pane.</description>
     </item>
     
     <item>
       <title>Wave Identification H</title>
-      <link>https://hcloward.github.io/Agent_Int/Page_Desc/Wave_Identification_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/Wave_Identification_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Agent_Int/Page_Desc/Wave_Identification_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/Wave_Identification_H/</guid>
       <description>Wave Identification H Wave Identification V
 Use this page to Configure the Migration dashboard.
 To access this page, select Agent Interface &amp;gt; Dashboards &amp;gt; Migration Dashboard in the Navigation pane.
@@ -72,10 +72,10 @@ Displays a description of the wave as entered on the Waves page.</description>
     
     <item>
       <title>Wave Milestones H</title>
-      <link>https://hcloward.github.io/Agent_Int/Page_Desc/Wave_Milestones_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/Wave_Milestones_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Agent_Int/Page_Desc/Wave_Milestones_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Agent_Int/Page_Desc/Wave_Milestones_H/</guid>
       <description>Wave Milestones H Wave Milestones V
 Use this page to Configure the IGC Migration dashboard.
 To access this page:

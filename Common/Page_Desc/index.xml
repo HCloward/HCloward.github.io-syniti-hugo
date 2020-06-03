@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Syniti Documentation</title>
-    <link>https://hcloward.github.io/Common/Page_Desc/</link>
+    <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/</link>
     <description>Recent content in Pages on Syniti Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://hcloward.github.io/Common/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Algorithms</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Algorithms/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Algorithms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Algorithms/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Algorithms/</guid>
       <description>Algorithms This page displays algorithms pre-populated in the database.
 To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Algorithmsin Navigationpane.
          Field Description   ALGORITHM Displays a SQL Server algorithm.   DESCRIPTION Displays the description of the algorithm, e.g., what the algorithm does.   ACTIVE If enabled, the algorithm is available for use.    </description>
@@ -23,10 +23,10 @@ To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;
     
     <item>
       <title>Analyze</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Analyze/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Analyze/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Analyze/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Analyze/</guid>
       <description>Analyze This page displays data sources registered in System Administration that are not added to the Ignore Data Sources page and to which the logged in user has security to view.
 To access this page, select Common &amp;gt; Analyze &amp;gt; Analyzein Navigationpane.
          Field Description   DATA SOURCE ID Displays unique ID for the data source being analyzed.   Trace Click to trace changes in the data source.</description>
@@ -34,10 +34,10 @@ To access this page, select Common &amp;gt; Analyze &amp;gt; Analyzein Navigatio
     
     <item>
       <title>Automation Engine Action H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Automation_Engine_Action_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Engine_Action_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Automation_Engine_Action_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Engine_Action_H/</guid>
       <description>Automation Engine Action H Automation Engine Action V
 Use this page to Modify Actions.
 To access this page, select Common &amp;gt; Automation Engine &amp;gt; Automation Engine Actionin Navigationpane.
@@ -46,10 +46,10 @@ To access this page, select Common &amp;gt; Automation Engine &amp;gt; Automatio
     
     <item>
       <title>Automation Engine History</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Automation_Engine_History/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Engine_History/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Automation_Engine_History/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Engine_History/</guid>
       <description>Automation Engine History Use this page to Generate Records in the AE History Table.
 To access this page:
  Select Common &amp;gt; Automation Engine &amp;gt; Automation Engine Paramsfrom the Navigationpane. Click the View Historyicon.           Field Description   AUTOMATION ENGINE HISTORY ID If enabled, a history of table inserts is captured. If not enabled, a history is not captured.   EXECUTION STEP Click to view the history.</description>
@@ -57,10 +57,10 @@ To access this page:
     
     <item>
       <title>Automation Engine Parameters</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Automation_Engine_Parameters/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Engine_Parameters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Automation_Engine_Parameters/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Engine_Parameters/</guid>
       <description>Automation Engine Parameters Use this page to Generate Records in the AE History Table.
 To access this page, select Common &amp;gt; Automation Engine &amp;gt; Automation Engine Params from the Navigationpane.
 Field
@@ -74,10 +74,10 @@ Click to view the history</description>
     
     <item>
       <title>Automation Instruction Task Definition</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Automation_Instruction_Task_Definition/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Instruction_Task_Definition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Automation_Instruction_Task_Definition/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Instruction_Task_Definition/</guid>
       <description>Automation Instruction Task Definition Use this page to Define Instructions for Tasks.
 To access this page:
  Select Common &amp;gt; Automation Engine &amp;gt; Automation Instruction Tasksin Navigationpane. Click Instructionsfor task.           Field Description   PRIORITY Displays the execution order of a task within the task group.   INSTRUCTION ID Displays the name of instruction. Click to view instruction details.   COMMENT Displays comment about the instruction, e.</description>
@@ -85,10 +85,10 @@ To access this page:
     
     <item>
       <title>Automation Instruction Task Group</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Automation_Instruction_Task_Group/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Instruction_Task_Group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Automation_Instruction_Task_Group/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Instruction_Task_Group/</guid>
       <description>Automation Instruction Task Group Use this page to Create Task Groups.
 To access this page, select Common &amp;gt; Automation Engine &amp;gt; Automation Instruction Task Groupsin Navigationpane.
          Field Description   NAME Displays name of task group.   DESCRIPTION Displays a brief description of the task group.   Tasks Click to open the Automation Instruction Task Group Definitionpage to manage tasks within the task group.</description>
@@ -96,10 +96,10 @@ To access this page, select Common &amp;gt; Automation Engine &amp;gt; Automatio
     
     <item>
       <title>Automation Instruction Task Group Definition</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Automation_Instruction_Task_Group_Definition/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Instruction_Task_Group_Definition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Automation_Instruction_Task_Group_Definition/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Instruction_Task_Group_Definition/</guid>
       <description>Automation Instruction Task Group Definition Use this page to Define Tasks for Task Group.
 To access this page:
  Select Common &amp;gt; Automation Engine &amp;gt; Automation Instruction Task Groupsin Navigationpane. Click Tasksfor task group.           Field Description   PRIORITY Displays the execution order of tasks within the task group.   TASK ID Displays name of task. Click to view task details.</description>
@@ -107,10 +107,10 @@ To access this page:
     
     <item>
       <title>Automation Instruction Task H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Automation_Instruction_Task_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Instruction_Task_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Automation_Instruction_Task_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Instruction_Task_H/</guid>
       <description>Automation Instruction Task H Automation Instruction Task V
 Use this page to Create Tasks.
 To access this page, select Common &amp;gt; Automation Engine &amp;gt; Automation Instruction Tasksin Navigationpane.
@@ -119,10 +119,10 @@ To access this page, select Common &amp;gt; Automation Engine &amp;gt; Automatio
     
     <item>
       <title>Automation Instruction – SQL</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Automation_Instruction_SQL/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Instruction_SQL/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Automation_Instruction_SQL/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Instruction_SQL/</guid>
       <description>Automation Instruction – SQL Use this page to Create Instructions.
 To access this page:
  Select Common &amp;gt; Automation Engine &amp;gt; Automation Instructionsin Navigationpane. Click SQLfor the instruction to add the SQL code.  Field
@@ -134,10 +134,10 @@ Displays SQL code used to determine if the SQL execution should precede. The Aut
     
     <item>
       <title>Automation Instructions</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Automation_Instructions/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Instructions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Automation_Instructions/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Automation_Instructions/</guid>
       <description>Automation Instructions Use this page to Create Instructions.
 To access this page, select Common &amp;gt; Automation Engine &amp;gt; Automation Instructionsin Navigationpane.
          Field Description   NAME Displays name of instruction.   DESCRIPTION Displays a brief description of the instruction.   Sql Click to define PreCheck SQL and SQL.   Copy Click to copy the automation step to use as a base for a new automation step.</description>
@@ -145,10 +145,10 @@ To access this page, select Common &amp;gt; Automation Engine &amp;gt; Automatio
     
     <item>
       <title>Build View H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Build_View_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Build_View_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Build_View_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Build_View_H/</guid>
       <description>Build View H Build View V
 Use this page to Build Views.
 To access this page, select Common &amp;gt; Tools &amp;gt; Build Viewin the Navigationpane.
@@ -157,10 +157,10 @@ To access this page, select Common &amp;gt; Tools &amp;gt; Build Viewin the Navi
     
     <item>
       <title>Calendar Exception</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Calendar_Exception/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Calendar_Exception/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Calendar_Exception/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Calendar_Exception/</guid>
       <description>Calendar Exception Use this page to Add an Exception to the Calendar.
 To access this page:
  Select Common &amp;gt; Tools &amp;gt; Calendarin the Navigationpane. Click Exceptionsfor a calendar.           Field Description   DATE Displays the calendar exception date of a work day on the selected calendar. This date has different work hours than the calendar’s work days. If no work hours are listed the exception date is a non-work day.</description>
@@ -168,10 +168,10 @@ To access this page:
     
     <item>
       <title>Calendar Exception Work Hours</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Calendar_Exception_Work_Hours/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Calendar_Exception_Work_Hours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Calendar_Exception_Work_Hours/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Calendar_Exception_Work_Hours/</guid>
       <description>Calendar Exception Work Hours Use this page to Add an Exception to the Calendar.
 To access this page:
  Select Common &amp;gt; Tools &amp;gt; Calendarin the Navigationpane. Click Exceptionsfor a calendar. Click Exception Hoursfor the date.           Field Description   START TIME Displays the start time of work hours on the selected exception day.   FINISH TIME Displays the finish time of work hours on the selected exception day.</description>
@@ -179,10 +179,10 @@ To access this page:
     
     <item>
       <title>Calendar H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Calendar/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Calendar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Calendar/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Calendar/</guid>
       <description>Calendar H Calendar V
 Use this page to:
  Add a Calendar Copy a Calendar Add and Remove a Calendar&amp;rsquo;s Users Set Work Days and Work Hours for a Calendar Add an Exception to the Calendar Copy Work Hours Across Work Days Delete a Calendar  To access this page, select Common &amp;gt; Tools &amp;gt; Calendarfrom the Navigationpane.
@@ -193,10 +193,10 @@ Use this page to:
     
     <item>
       <title>Calendar User</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Calendar_User/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Calendar_User/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Calendar_User/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Calendar_User/</guid>
       <description>Calendar User Use this page to Add and Remove a Calendar&amp;rsquo;s Users.
 To access this page:
  Select Common &amp;gt; Tools &amp;gt; Calendarin the Navigationpane. Click Usersfor a calendar.  </description>
@@ -204,10 +204,10 @@ To access this page:
     
     <item>
       <title>Candidates</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Candidates/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Candidates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Candidates/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Candidates/</guid>
       <description>Candidates Use this page to Resolve Duplicate Candidates.
 To resolve duplicate candidates:
  Click Analyze in Navigation pane. Click Duplicates for Data Source ID. Click Unresolved Candidates for Object.           Field Description   Objects Click to run the duplicate detection process or to manage unresolved candidates.   Results Click to review results from the duplicate detection process.   VALUE Displays original value.</description>
@@ -215,10 +215,10 @@ To resolve duplicate candidates:
     
     <item>
       <title>Client Column Name Variant</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Client_Column_Name_Variant/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Client_Column_Name_Variant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Client_Column_Name_Variant/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Client_Column_Name_Variant/</guid>
       <description>Client Column Name Variant Use this page to Add Client Columns.
 To access this page:
  Select Common &amp;gt; Tools &amp;gt; Build Viewin Navigationpane. Click Client Columnsfor target/source combination.           Field Description   COLUMN Displays value to which client name is bound in views during the build views process.   COLUMN LIKE Displays client name in SAP. All COLUMN values are variations of the COLUMN LIKE value.</description>
@@ -226,10 +226,10 @@ To access this page:
     
     <item>
       <title>Copy Calendar</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Copy_Calendar/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Copy_Calendar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Copy_Calendar/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Copy_Calendar/</guid>
       <description>Copy Calendar Use this page to Copy a Calendar.
 To access this page:
  Select Common &amp;gt; Tools &amp;gt; Calendarin the Navigationpane. Select the calendar to be copied. Click Copy Calendarin the Page toolbar.           Field Description   Copy Calendar Click to create a copy of the calendar once the New Name and New Description have been entered.   Name Displays the name of the calendar to be copied.</description>
@@ -237,10 +237,10 @@ To access this page:
     
     <item>
       <title>Copy: Automation Instructions</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Copy_Automation_Instructions/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Copy_Automation_Instructions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Copy_Automation_Instructions/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Copy_Automation_Instructions/</guid>
       <description>Copy: Automation Instructions Use this page to Copy Instructions.
 To access this page:
  Select Common &amp;gt; Automation Engine &amp;gt; Automation Instructionsin Navigationpane. Click Copyfor an instruction.  Field
@@ -257,10 +257,10 @@ Click to copy current automation instruction.</description>
     
     <item>
       <title>Data Classification</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Data-Classification/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data-Classification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Data-Classification/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data-Classification/</guid>
       <description>Data Classification Use this page to Add Custom Data Classifications.
 To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Collect &amp;gt; Data Classification in the Navigation pane.
          Field Description   DATA CLASSIFICATION Displays a name to classify the data in the object, such as Human Resources, Sales, Customer, or Personal.   INFORMATION TYPE Displays whether the data classification is Personal, requiring a retention expiration date, Restricted, or Public.</description>
@@ -268,10 +268,10 @@ To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;
     
     <item>
       <title>Data Services Profiling Results</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Data_Services_Profiling_Results/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data_Services_Profiling_Results/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Data_Services_Profiling_Results/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data_Services_Profiling_Results/</guid>
       <description>Data Services Profiling Results Use this page to View the Profiling Results.
 To access this page, select Common &amp;gt; Analyze &amp;gt; Data Services Profiling Resultsin the Navigationpane.
          Fields Description   DATASTORE_ID Displays the name of the Data Services Data Store on which the profiling task was executed.   TABLE_ID Displays the name of the table within the Data Services Data Store on which the profiling task was executed   Columns Click to open the Data Services Profiling Results Table Columns page to view profiling results, such as null count and average string length, for each column in the selected table.</description>
@@ -279,10 +279,10 @@ To access this page, select Common &amp;gt; Analyze &amp;gt; Data Services Profi
     
     <item>
       <title>Data Services Profiling Results Table Columns</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Data_Services_Profiling_Results_Table_Columns/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data_Services_Profiling_Results_Table_Columns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Data_Services_Profiling_Results_Table_Columns/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data_Services_Profiling_Results_Table_Columns/</guid>
       <description>Data Services Profiling Results Table Columns Use this page to View the Profiling Results.
 To access this page:
  Select Common &amp;gt; Analyze &amp;gt; Data Services Profiling Resultsin the Navigationpane. Click the Columnsicon for a DATASOURCE_ID.           Fields Description   COLUMN_ID Data Services internal ID of the column profiled.   COLUMN_NAME Displays the name of the column.   AVERAGE_VALUE Displays the average value in the profiled data set for the specific column if possible to calculate.</description>
@@ -290,10 +290,10 @@ To access this page:
     
     <item>
       <title>Data Source Objects</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Data_Source_Objects/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data_Source_Objects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Data_Source_Objects/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data_Source_Objects/</guid>
       <description>Data Source Objects Use this page to Activate and Deactivate Data Sources.
 To access this page:
  Click Common &amp;gt; Analyzein Navigationpane. Click Tracefor Data Source ID.  Field
@@ -310,10 +310,10 @@ Click to reset the status for a running trace.</description>
     
     <item>
       <title>Data Source Registry H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Data_Source_Registry_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data_Source_Registry_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Data_Source_Registry_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data_Source_Registry_H/</guid>
       <description>Data Source Registry H Data Source Registry VUse this page to Register a Data Source in Common.
 To access this page, select Common &amp;gt; Configuration &amp;gt; Data Source Registryin the Navigationpane.
 NOTE: Bulk Execution has been enabled on this page. Refer to Use Bulk Execution for more information.
@@ -324,10 +324,10 @@ Application Data Source Types</description>
     
     <item>
       <title>Data Source Registry User Credentials H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Data_Source_Registry_User_Credentials_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data_Source_Registry_User_Credentials_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Data_Source_Registry_User_Credentials_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data_Source_Registry_User_Credentials_H/</guid>
       <description>Data Source Registry User Credentials H Data Source Registry User Credentials V
 Use this page to Add User Credentials to an SAP Connection for a Specific User.
 To access this page:
@@ -336,10 +336,10 @@ To access this page:
     
     <item>
       <title>Data Sources Tables</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Data_Sources_Tables/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data_Sources_Tables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Data_Sources_Tables/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Data_Sources_Tables/</guid>
       <description>Data Sources Tables Use this page to:
  Profile Entire Data Source. Reset for a Data Source  To access this page:
  Select Common &amp;gt; Analyzein the Navigationpane. Click the Profileicon for a data source.  Field
@@ -355,10 +355,10 @@ Click to open the Table (Results) page to view table details and to activate/ina
     
     <item>
       <title>Database Function Setup</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Database_Function_Setup/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Database_Function_Setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Database_Function_Setup/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Database_Function_Setup/</guid>
       <description>Database Function Setup Use this page to Set Up Database Functions.
 To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Database Function Setupin the Navigationpane.
          Field Description   DATA BASE NAME Displays database function name.   DATA BASE RULE Displays SQL script for database function.    </description>
@@ -366,10 +366,10 @@ To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;
     
     <item>
       <title>DBMoto Function Setup</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/DBMoto_Function_Setup/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/DBMoto_Function_Setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/DBMoto_Function_Setup/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/DBMoto_Function_Setup/</guid>
       <description>DBMoto Function Setup Use this page to Add DBMoto Functions.
 To access this page, click Configuration &amp;gt; Modules &amp;gt; DBMoto Function Setup in the Navigation pane.
    Field Description     FUNCTION NAME Displays the name of the global script function to be used in DBMoto.   FUNCTION SCRIPT Displays the global script function. Refer to Add DBMoto Functions for more information.    </description>
@@ -377,10 +377,10 @@ To access this page, click Configuration &amp;gt; Modules &amp;gt; DBMoto Functi
     
     <item>
       <title>Debug Log H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Debug_Log_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Debug_Log_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Debug_Log_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Debug_Log_H/</guid>
       <description>Debug Log H Debug Log V
 Use this page to View Debug Logs.
 To access this page:
@@ -389,20 +389,20 @@ To access this page:
     
     <item>
       <title>Debug Logs</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Debug_Logs/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Debug_Logs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Debug_Logs/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Debug_Logs/</guid>
       <description>Debug Logs Use this page to Configure Debug Logs Settings.
 To access this page, select Common &amp;gt; Job Monitor &amp;gt; Debug Logsin Navigationpane.</description>
     </item>
     
     <item>
       <title>Definitions</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Definitions/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Definitions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Definitions/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Definitions/</guid>
       <description>Definitions Use this page while Viewing Objects.
 To access this page:
  Click Common &amp;gt; Analyzein Navigationpane. Click Tracefor Data Source ID. Click an applicable icon to view tracked objects. Click SQLicon to view the original SQL code, which is captured at the time an object is registered.           Field Description   DEFINITION Displays actual SQL code used to create the object.</description>
@@ -410,10 +410,10 @@ To access this page:
     
     <item>
       <title>Duplicates</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Duplicates/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Duplicates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Duplicates/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Duplicates/</guid>
       <description>Duplicates Use this page to Review Duplicate Records.
 To access this page:
  Click Analyze in the Navigation pane. Click the Duplicates icon for the Data Source ID. Select an object. Click Results on the Page toolbar. Click Duplicates.           Field Description   OBSOLETE OBJECT Displays record that is discarded because it is a duplicate.   ACTUAL OBJECT Displays record that is kept after duplicate analysis.</description>
@@ -421,10 +421,10 @@ To access this page:
     
     <item>
       <title>Field Values H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Field_Values_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Field_Values_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Field_Values_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Field_Values_H/</guid>
       <description>Field Values H Field Values V Use this page to view the unique values for the selected field while viewing table field results.
 To access this page to view details about a specific table:
  Select Common &amp;gt; Analyzein the Navigation pane. Click the Profileicon for a data source. Click the Tablesicon. Click the Fieldsicon for a table. Click the Unique Value Listicon for a field.           Field Description   COUNTER Displays the order in which records are loaded into the table.</description>
@@ -432,10 +432,10 @@ To access this page to view details about a specific table:
     
     <item>
       <title>History Of Changes</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/History_Of_Changes/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/History_Of_Changes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/History_Of_Changes/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/History_Of_Changes/</guid>
       <description>History Of Changes Use this page to View Object History.
 To access this page:
  Click Common &amp;gt; Analyzein Navigationpane. Click Tracefor Data Source ID. Click an applicable icon to view tracked objects. Click Historyicon to view an audit trail of the object.           Field Description   HISTORICAL DEFINITION Displays historical SQL code for the object.   CHANGED ON Displays date and time when a change to object was made.</description>
@@ -443,10 +443,10 @@ To access this page:
     
     <item>
       <title>Information Type</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Information-Type/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Information-Type/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Information-Type/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Information-Type/</guid>
       <description>Information Type Use this page to Add Custom Information Types.
 To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Collect &amp;gt; Information Type in the Navigation pane.
          Field Description   INFORMATION TYPE Display the name of the DSP delivered information type (Personal, Restricted or Public) or the custom information type.   RETENTION PERIOD WARNING If checked, a retention expiration date must be added to an object&amp;rsquo;s Data Protection settings if a data classification using this information type is used.</description>
@@ -454,10 +454,10 @@ To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;
     
     <item>
       <title>Keys</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Keys/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Keys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Keys/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Keys/</guid>
       <description>Keys Use this page to Create a Secure Key.
 To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Keysin Navigationpane.
          Field Description   KEY IDENTIFIER Displays name used to identify the key during the encryption and decryption process.   KEY PASSWORD Displays encrypted password for the key.   KEY ALGORITHM Displays algorithm for the key.   IS VALID If enabled, key provided is valid.</description>
@@ -465,10 +465,10 @@ To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;
     
     <item>
       <title>Language Column Name Variant</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Language_Column_Name_Variant/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Language_Column_Name_Variant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Language_Column_Name_Variant/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Language_Column_Name_Variant/</guid>
       <description>Language Column Name Variant Use this page to Add Language Columns.
 To access this page:
  Select Common &amp;gt; Tools &amp;gt; Build Viewin Navigationpane. Click Language Columnsfor target/source combination.           Field Description   COLUMN Displays value to which language is bound in views during the build views process.   COLUMN LIKE Displays Language name in SAP. All COLUMN values are variations of COLUMN LIKE value.</description>
@@ -476,10 +476,10 @@ To access this page:
     
     <item>
       <title>Mapping Set</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Mapping_Set/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Mapping_Set/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Mapping_Set/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Mapping_Set/</guid>
       <description>Mapping Set Use this page to Add a Mapping Set.
 To access this page:
  Select Common &amp;gt;System Typesin the Navigationpane. Click Target Mappingfor a System Type. Click Editfor a mapping. Click the +sign in the MAPPING SET IDlist box.  </description>
@@ -487,10 +487,10 @@ To access this page:
     
     <item>
       <title>Monitor H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Monitor_HCommon/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Monitor_HCommon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Monitor_HCommon/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Monitor_HCommon/</guid>
       <description>Monitor H Monitor V
 Use this page to View Activity.
 To access this page:
@@ -507,10 +507,10 @@ Displays Platform Job ID for the monitored job.</description>
     
     <item>
       <title>NonDuplicates</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/NonDuplicates/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/NonDuplicates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/NonDuplicates/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/NonDuplicates/</guid>
       <description>NonDuplicates Use this page to Review Non Duplicate Records.
 To access this page:
  Click Analyze in Navigation pane. Click Duplicates for Data Source ID. Select an object. Click Results on Page toolbar. Click Non Duplicates.           Field Description   OBJECT 1 Displays record that is considered a non duplicate when compared to Object 2.   OBJECT 2 Displays record that is considered a non duplicate when compared to Object 1.</description>
@@ -518,10 +518,10 @@ To access this page:
     
     <item>
       <title>Object Columns H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Object_Columns_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Object_Columns_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Object_Columns_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Object_Columns_H/</guid>
       <description>Object Columns H Object Columns V
 Use this page to Configure Columns.
 To access this page:
@@ -530,10 +530,10 @@ To access this page:
     
     <item>
       <title>Object History H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Object_History_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Object_History_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Object_History_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Object_History_H/</guid>
       <description>Object History H Object History V
 This page displays changes made to an object.
 To access this page:
@@ -542,10 +542,10 @@ To access this page:
     
     <item>
       <title>Objects Changed By Week (Users)</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Objects-Changed-By-Week-Users/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Objects-Changed-By-Week-Users/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Objects-Changed-By-Week-Users/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Objects-Changed-By-Week-Users/</guid>
       <description>Objects Changed By Week (Users) This chart displays the count of objects that were updated in the data source selected on the Analyze page. It is broken out by user and week and displays data for a seven week time span. If the user is DSP, the system updated the object through a process or some other method.
 To access the chart in Common:
  Click Analyze in the Navigation pane.</description>
@@ -553,10 +553,10 @@ To access the chart in Common:
     
     <item>
       <title>Objects H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Objects_H_Common/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Objects_H_Common/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Objects_H_Common/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Objects_H_Common/</guid>
       <description>Objects H Objects V All Tabs
 Use this page to Register Objects.
 To access this page:
@@ -571,19 +571,19 @@ Click to open the Dictionaries page in System Administration to add, edit and de
     
     <item>
       <title>Parameters - Metrics</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Parameters_Metrics/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Metrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Parameters_Metrics/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Metrics/</guid>
       <description>Parameters - Metrics This page is not currently used, but will be activated in a future release.</description>
     </item>
     
     <item>
       <title>Parameters - User Management</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Parameters_User_Management/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_User_Management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Parameters_User_Management/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_User_Management/</guid>
       <description>Parameters - User Management Use this page to Modify Text for Password Email Notifications.
 To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Parameters - User Mgmt in the Navigation pane.
 Field
@@ -597,10 +597,10 @@ Displays the email address from which the notifications will be sent.</descripti
     
     <item>
       <title>Parameters – Collect</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Parameters_Collect/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Collect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Parameters_Collect/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Collect/</guid>
       <description>Parameters – Collect Use this page to Configure Collect Parameters.
 To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Parameters-Collectin the Navigationpane.
 This page contains the following tabs:
@@ -615,10 +615,10 @@ Displays date when the component version was released.</description>
     
     <item>
       <title>Parameters – Duplicates</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Parameters_Duplicates/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Duplicates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Parameters_Duplicates/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Duplicates/</guid>
       <description>Parameters – Duplicates Use this page to Configure Duplicates Parameters.
 To access this page, click Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Parameters – Duplicatesin the Navigation pane.
 Field
@@ -637,10 +637,10 @@ Displays weight percent of the calculated value for matched words.</description>
     
     <item>
       <title>Parameters – Integrate</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Parameters_Integrate/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Integrate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Parameters_Integrate/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Integrate/</guid>
       <description>Parameters – Integrate Use this page to Configure Integrate Parameters.
 To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Parameters - Integratein the Navigationpane.
 This page contains the following tabs:
@@ -657,10 +657,10 @@ Background Posting Queue ID</description>
     
     <item>
       <title>Parameters – Profile</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Parameters_Profile/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Parameters_Profile/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Profile/</guid>
       <description>Parameters – Profile Use this page to Configure Profile Parameters.
 To access this page, click Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Parameters – Profilein the Navigation pane.
 Field
@@ -677,10 +677,10 @@ Displays type of background queue to use as the default when profiling objects. 
     
     <item>
       <title>Parameters – Secure</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Parameters_Secure/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Secure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Parameters_Secure/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Secure/</guid>
       <description>Parameters – Secure Use this page to Configure Secure Parameters.
 To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Parameters - Securein the Navigationpane
 Field
@@ -697,10 +697,10 @@ Displays algorithm used when adding a new key. The algorithm is based on SQL Ser
     
     <item>
       <title>Parameters – Trace</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Parameters_Trace/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Trace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Parameters_Trace/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Parameters_Trace/</guid>
       <description>Parameters – Trace Use this page to Configure Trace Parameters.
 To access this page, select Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Parameters - Tracein Navigationpane.
 Field
@@ -719,10 +719,10 @@ Displays prefix used for database object stored procedures.</description>
     
     <item>
       <title>Post Action Rule Table Column</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Post_Action_Rule_Table_Column/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Post_Action_Rule_Table_Column/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Post_Action_Rule_Table_Column/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Post_Action_Rule_Table_Column/</guid>
       <description>Post Action Rule Table Column Use this page to:
  Add Post Action Rules Configure Rule Columns  To access this page:
  Select Common &amp;gt; Configuration &amp;gt; Modules &amp;gt; Post Action Rule Tablein the Navigationpane. Click the Rule Columnsicon for the table.           Field Description   TABLE Displays table name that post action rules are run against.   COLUMN Displays table column within table that post action rules are run against.</description>
@@ -730,10 +730,10 @@ Displays prefix used for database object stored procedures.</description>
     
     <item>
       <title>Post Action Rule Table H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Post_Action_Rule_Table_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Post_Action_Rule_Table_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Post_Action_Rule_Table_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Post_Action_Rule_Table_H/</guid>
       <description>Post Action Rule Table H Post Action Rule Table V
 Use this page to Add Post Action Rules.
 To access this page select Configuration &amp;gt; Modules &amp;gt; Post Action Rule Tablein Navigationpane.
@@ -742,20 +742,20 @@ To access this page select Configuration &amp;gt; Modules &amp;gt; Post Action R
     
     <item>
       <title>Process Adapter</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Process_Adapter/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Process_Adapter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Process_Adapter/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Process_Adapter/</guid>
       <description>Process Adapter Use this page to Modify the Process Adapter Entries.
 To access this page, select Common &amp;gt; Configuration &amp;gt; Process Adaptersin the Navigationpane.</description>
     </item>
     
     <item>
       <title>Process Adapter Properties</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Process_Adapter_Properties/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Process_Adapter_Properties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Process_Adapter_Properties/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Process_Adapter_Properties/</guid>
       <description>Process Adapter Properties Use this page to Modify the Process Adapter Properties.
 To access this page:
  Select Common &amp;gt; Configuration &amp;gt; Process Adaptersin the Navigationpane. Click the Propertiesicon for a process.  </description>
@@ -763,127 +763,127 @@ To access this page:
     
     <item>
       <title>Report Engine - Filters</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Filters/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Filters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Filters/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Filters/</guid>
       <description>Report Engine - Filters This page is not used.</description>
     </item>
     
     <item>
       <title>Report Engine - Job User Filters</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Job_User_Filters/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Job_User_Filters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Job_User_Filters/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Job_User_Filters/</guid>
       <description>Report Engine - Job User Filters This page is not used.</description>
     </item>
     
     <item>
       <title>Report Engine - Report Source</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Report_Source_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Report_Source_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Report_Source_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Report_Source_H/</guid>
       <description>Report Engine - Report Source This page is not used.</description>
     </item>
     
     <item>
       <title>Report Engine Core Configuration</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Core_Configuration/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Core_Configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Core_Configuration/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Core_Configuration/</guid>
       <description>Report Engine Core Configuration This page is not used.</description>
     </item>
     
     <item>
       <title>Report Engine Formats</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Formats_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Formats_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Formats_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Formats_H/</guid>
       <description>Report Engine Formats This page is not used.</description>
     </item>
     
     <item>
       <title>Report Engine Formatting Styles</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Formatting_Styles_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Formatting_Styles_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Formatting_Styles_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Formatting_Styles_H/</guid>
       <description>Report Engine Formatting Styles This page is not used.</description>
     </item>
     
     <item>
       <title>Report Engine Job DataStores</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Job_DataStores/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Job_DataStores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Job_DataStores/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Job_DataStores/</guid>
       <description>Report Engine Job DataStores This page is not used.</description>
     </item>
     
     <item>
       <title>Report Engine MongoDB Configuration</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_MongoDB_Configuration_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_MongoDB_Configuration_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_MongoDB_Configuration_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_MongoDB_Configuration_H/</guid>
       <description>Report Engine MongoDB Configuration This page is not used.</description>
     </item>
     
     <item>
       <title>Report Engine Notifications</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Notifications_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Notifications_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Notifications_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Notifications_H/</guid>
       <description>Report Engine Notifications This page is not used.</description>
     </item>
     
     <item>
       <title>Report Engine – Header/Footers</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_HeaderFooters/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_HeaderFooters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_HeaderFooters/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_HeaderFooters/</guid>
       <description>Report Engine – Header/Footers This page is not used.</description>
     </item>
     
     <item>
       <title>Report Engine – Job Filters</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Job_Filters/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Job_Filters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Job_Filters/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Job_Filters/</guid>
       <description>Report Engine – Job Filters This page is not used.</description>
     </item>
     
     <item>
       <title>Report Engine – Job Users</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Job_Users/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Job_Users/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Job_Users/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Job_Users/</guid>
       <description>Report Engine – Job Users This page is not used.</description>
     </item>
     
     <item>
       <title>Report Engine – Jobs H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Jobs_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Jobs_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Report_Engine_Jobs_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Report_Engine_Jobs_H/</guid>
       <description>Report Engine – Jobs H This page is not used.</description>
     </item>
     
     <item>
       <title>Reports</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Reports/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Reports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Reports/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Reports/</guid>
       <description>Reports Use this page to access installed Common reports.
 To access this page, select Common &amp;gt; Reportsin the Navigationpane.
          Field Description   PRIORITY Displays the priority in which the Collect reports are displayed.   Report Displays the reports available in Collect.    </description>
@@ -891,10 +891,10 @@ To access this page, select Common &amp;gt; Reportsin the Navigationpane.
     
     <item>
       <title>Results</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Results/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Results/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Results/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Results/</guid>
       <description>Results Use this page to View Results.
 To access this page:
  Click Analyze in Navigation pane. Click Duplicates for Data Source ID. Select an object. Click Results on Page toolbar.  </description>
@@ -902,20 +902,20 @@ To access this page:
     
     <item>
       <title>SAP RFC</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/SAP_RFC/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/SAP_RFC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/SAP_RFC/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/SAP_RFC/</guid>
       <description>SAP RFC Use this page to view the RFCs extracted from SAP for a data source. Refer to Extract RFC Functions for more information.To access this page:
  Select Configuration &amp;gt; Data Source Registryin the Navigationpane. Click Vertical Viewfor the data source with an APPLICATION DATA SOURCE TYPEof SAP Application Server, Click the RFC Extracticon.           Field Description   NAME Displays the name of the RFC extracted from SAP.</description>
     </item>
     
     <item>
       <title>Schedule – Configure</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Schedule_Configure/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Schedule_Configure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Schedule_Configure/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Schedule_Configure/</guid>
       <description>Schedule – Configure Use this page to Create Schedules.
 To access this page:
  Select Common &amp;gt; Tools &amp;gt; Schedulesin Navigationpane. Click Vertical View. Click link for Recurrence ID.  The configuration of this page depends on the Recurrence ID:
@@ -924,10 +924,10 @@ To access this page:
     
     <item>
       <title>Schedules H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Schedules_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Schedules_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Schedules_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Schedules_H/</guid>
       <description>Schedules H Schedules V
 Use this page to Create Schedules.
 To access this page, select Common &amp;gt; Tools &amp;gt; Schedulesin Navigationpane.
@@ -936,10 +936,10 @@ To access this page, select Common &amp;gt; Tools &amp;gt; Schedulesin Navigatio
     
     <item>
       <title>SQL Objects</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/SQL_Objects/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/SQL_Objects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/SQL_Objects/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/SQL_Objects/</guid>
       <description>SQL Objects Use this page to View Objects.
 To access this page:
  Click Common &amp;gt; Analyzein Navigationpane. Click Tracefor Data Source ID. Click an applicable icon to view tracked objects.           Field Description   Filter Changed Only Click to apply the filter to only display changed objects.   Filter All Click to remove change filter so all objects display.</description>
@@ -947,10 +947,10 @@ To access this page:
     
     <item>
       <title>SQL Objects (With History)</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/SQL_Objects_With_History/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/SQL_Objects_With_History/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/SQL_Objects_With_History/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/SQL_Objects_With_History/</guid>
       <description>SQL Objects (With History) This page displays only SQL objects that have been changed.
 To access this page:
  Click Common &amp;gt; Analyzein Navigationpane. Click Tracefor Data Source ID. Click an applicable icon to view tracked objects. Click theFilter Changed Onlyicon.           Field Description   OBJECT NAME Displays name of object being traced.   TYPE_DESC Displays type of SQL object, e.</description>
@@ -958,10 +958,10 @@ To access this page:
     
     <item>
       <title>System Types Group Table Rule Fields</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Group_Table_Rule_Fields/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Group_Table_Rule_Fields/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Group_Table_Rule_Fields/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Group_Table_Rule_Fields/</guid>
       <description>System Types Group Table Rule Fields Use this page to Add Post Action Table Rules.
 To access this page:
  Click Common &amp;gt; System Typesin Navigationpane. Click Groupsicon for System Type. Click Tablesicon for Group. Click Post Action Table Rulesfor Table. Click Post Action Table Rule Fieldsfor Rule.  </description>
@@ -969,10 +969,10 @@ To access this page:
     
     <item>
       <title>System Types Group Table Rules</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Group_Table_Rules/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Group_Table_Rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Group_Table_Rules/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Group_Table_Rules/</guid>
       <description>System Types Group Table Rules Use this page to Add Post Action Table Rules.
 To access this page:
  Click Common &amp;gt; System Typesin the Navigation pane. Click the Groupsicon for the System Type. Click the Tablesicon for the Group. Click the Post Action Table Rulesfor the Table.           Field Description   DATABASE RULE ID Displays database function name run against the table.</description>
@@ -980,10 +980,10 @@ To access this page:
     
     <item>
       <title>System Types Group Tables</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Group_Tables/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Group_Tables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Group_Tables/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Group_Tables/</guid>
       <description>System Types Group Tables Use this page to:
  Add a System Type Group Activate or Deactivate Tables in a System Type Group  To access this page:
  Select Common &amp;gt; System Typesin the Navigationpane. Click the Groups icon for a System Type. Click the Tables icon for a group.  NOTE:Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.
@@ -992,10 +992,10 @@ To access this page:
     
     <item>
       <title>System Types Groups</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Groups/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Groups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Groups/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Groups/</guid>
       <description>System Types Groups Use this page to Add System Type Groups.
 To access this page:
  Select Common &amp;gt; System Typesin the Navigation pane. Click the Groupsicon for a System Type.  NOTE:Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.
@@ -1004,10 +1004,10 @@ To access this page:
     
     <item>
       <title>System Types H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_H/</guid>
       <description>System Types H System Types V
 Use this page to Add System Types.
 To access this page, click Common &amp;gt; System Typesin Navigationpane.
@@ -1023,10 +1023,10 @@ Import From Data Source or Model</description>
     
     <item>
       <title>System Types Import</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Import/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Import/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Import/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Import/</guid>
       <description>System Types Import Use this page to:
  Import a Data Source. Import a Model Export Translations to a Catalog  To access this page:
  SelectCommon &amp;gt; System Typesin the Navigationpane. Click the Vertical Viewicon for a System Type. Click Import from Data Source or Model.  Field
@@ -1037,10 +1037,10 @@ Click the System Types Models page to document in which tables must be populated
     
     <item>
       <title>System Types Index Fields</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Index_Fields/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Index_Fields/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Index_Fields/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Index_Fields/</guid>
       <description>System Types Index Fields Use this page to Add Indices.
 To access this page:
  Select Common &amp;gt; System Typesin the Navigation pane. Click the Tables icon for a System Type. Click the Indices icon for a table. Click the Index Fields icon for a table index.  NOTE:Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.
@@ -1049,10 +1049,10 @@ To access this page:
     
     <item>
       <title>System Types Join Field</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Join_Field/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Join_Field/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Join_Field/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Join_Field/</guid>
       <description>System Types Join Field Use this page to Add Table Join Relationships.
 To access this page:
   Click Common &amp;gt; System Types in Navigation pane.
@@ -1064,10 +1064,10 @@ To access this page:
     
     <item>
       <title>System Types Joins</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Joins/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Joins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Joins/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Joins/</guid>
       <description>System Types Joins Use this page to Add Table Join Relationships.
 To access this page:
   Select Common &amp;gt; System Types in the Navigation pane.
@@ -1079,10 +1079,10 @@ To access this page:
     
     <item>
       <title>System Types Mappings</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Mappings/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Mappings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Mappings/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Mappings/</guid>
       <description>System Types Mappings Use this page to Add Mappings.
 To access this page:
  Select Common &amp;gt; System Types in the Navigation pane. Click the Target Mappings icon for a System Type.  NOTE:Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.</description>
@@ -1090,10 +1090,10 @@ To access this page:
     
     <item>
       <title>System Types Model Build Views</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Model_Build_Views/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Model_Build_Views/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Model_Build_Views/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Model_Build_Views/</guid>
       <description>System Types Model Build Views Use this page to build views based on the System Type Model.
 To access this page:
  Select Common &amp;gt; Configuration &amp;gt; System Type Models in the Navigation pane. Click Vertical View icon for a System Type Model. Click Build Viewsicon.  Field
@@ -1107,10 +1107,10 @@ Displays a view containing the list of tables with descriptions of the selected 
     
     <item>
       <title>System Types Model Group Tables</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Model_Group_Tables/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Model_Group_Tables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Model_Group_Tables/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Model_Group_Tables/</guid>
       <description>System Types Model Group Tables Use this page to
  Add a System Type Model Group Activate or Deactivate Tables in a System Type Model Group  To access this page:
  Select Configuration &amp;gt; System Type Models in the Navigation pane. Click the Model Groups icon for a System Type Model. Click the Tables icon for a model group.  NOTE:Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.</description>
@@ -1118,10 +1118,10 @@ Displays a view containing the list of tables with descriptions of the selected 
     
     <item>
       <title>System Types Model Groups</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Model_Groups/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Model_Groups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Model_Groups/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Model_Groups/</guid>
       <description>System Types Model Groups Use this page to:
  Add a System Type Model Group. Activate or Deactivate Tables in a System Type Model Group  To access this page:
  Select Configuration &amp;gt; System Type Models in the Navigation pane. Click the Model Groups icon for a System Type Model.  NOTE: Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.
@@ -1130,10 +1130,10 @@ Displays a view containing the list of tables with descriptions of the selected 
     
     <item>
       <title>System Types Model Required Fields</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Model_Required_Fields/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Model_Required_Fields/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Model_Required_Fields/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Model_Required_Fields/</guid>
       <description>System Types Model Required Fields Use this page to view fields required for System Type tables.
 To access this page:
  Select Common &amp;gt; Configuration &amp;gt; System Type Models in the Navigation pane. Click the Model Required For (Tables, Tables Fields, Table Lookup Fields, Table Fields Domains) icon respectively to view the requirements.  NOTE:Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.</description>
@@ -1141,10 +1141,10 @@ To access this page:
     
     <item>
       <title>System Types Model Tables</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Model_Tables/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Model_Tables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Model_Tables/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Model_Tables/</guid>
       <description>System Types Model Tables Use this page to Add a System Type Model Table.
 To access this page:
  Select Configuration &amp;gt; System Type Models in the Navigation pane. Click the Model Tables icon for a System Type model.  NOTE:Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.</description>
@@ -1152,10 +1152,10 @@ To access this page:
     
     <item>
       <title>System Types Models H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Models_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Models_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Models_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Models_H/</guid>
       <description>System Types Models H System Types Models V
 Use this page to:
  Add a System Type Model Add a System Type Model Table. View Fields Required for System Type Tables Add a System Type Model Group  To access this page, select Configuration &amp;gt; System Type Models in the Navigation pane.
@@ -1165,10 +1165,10 @@ Use this page to Add a System Type Model Table.</description>
     
     <item>
       <title>System Types Table Fields H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Table_Fields_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Table_Fields_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Table_Fields_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Table_Fields_H/</guid>
       <description>System Types Table Fields H System Types Table Fields V
 Use this page to:
  Add Fields to Tables Add a Lookup Table Manually  To access this page:
@@ -1177,10 +1177,10 @@ Use this page to:
     
     <item>
       <title>System Types Table Indices</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Table_Indices/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Table_Indices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Table_Indices/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Table_Indices/</guid>
       <description>System Types Table Indices Use this page to Add Indices.
 To access this page:
  Select Common &amp;gt; System Types in the Navigation pane. Click theTables icon for a System Type. Click the Indices icon for a table.  NOTE:Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.</description>
@@ -1188,10 +1188,10 @@ To access this page:
     
     <item>
       <title>System Types Table Lookup</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Table_Lookup/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Table_Lookup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Table_Lookup/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Table_Lookup/</guid>
       <description>System Types Table Lookup Use this page to Add a Lookup Table Manually.
 To access this page:
  Select Common &amp;gt; System Types in the Navigation pane. Click the Tables icon for a System Type. Click the Fields icon for a Table Name. Click a lookup table name in the LOOKUP TABLE column.  NOTE: Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.</description>
@@ -1199,10 +1199,10 @@ To access this page:
     
     <item>
       <title>System Types Table Statics</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Table_Statics/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Table_Statics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Table_Statics/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Table_Statics/</guid>
       <description>System Types Table Statics Use this page to Set Values for System Types Table Fields.
 To access this page:
  Select Common &amp;gt; System Types in the Navigation pane. Click the Tables icon for a System Type. Click the Fields icon for a Table Name. Click the Static Value List icon for the field.  NOTE: Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.</description>
@@ -1210,10 +1210,10 @@ To access this page:
     
     <item>
       <title>System Types Tables H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/System_Types_Tables_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Tables_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/System_Types_Tables_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/System_Types_Tables_H/</guid>
       <description>System Types Tables H System Types Tables V
 Use this page to
  Manually Add System Tables Copy a System Type Table  To access this page:
@@ -1223,10 +1223,10 @@ System Types Tables V All Tabs System Types Tables H</description>
     
     <item>
       <title>Table (Results) H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Table_Results_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Table_Results_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Table_Results_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Table_Results_H/</guid>
       <description>Table (Results) H Table (Results) V Use this page to
  Activate and Deactivate Tables Profile Individual Tables View Table Results Reset for a Table  This page can be accessed in two ways.
 To access this page to view a list of all tables that are profiled::
@@ -1235,10 +1235,10 @@ To access this page to view a list of all tables that are profiled::
     
     <item>
       <title>Table Field (Results) H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Table_Field_Results_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Table_Field_Results_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Table_Field_Results_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Table_Field_Results_H/</guid>
       <description>Table Field (Results) H Table Field (Results) V
 Use this page to View Table Field Results.
 To access this page:
@@ -1247,10 +1247,10 @@ To access this page:
     
     <item>
       <title>Toolkit: Excel H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Toolkit_Excel_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Toolkit_Excel_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Toolkit_Excel_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Toolkit_Excel_H/</guid>
       <description>Toolkit: Excel H Toolkit: Excel V
 Use this page to:
  Import Excel Files Export Excel Files  To access this page, select Common &amp;gt; Toolkit &amp;gt; Excelin Navigationpane.
@@ -1259,10 +1259,10 @@ Use this page to:
     
     <item>
       <title>Toolkit: File/Folder Operations H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Toolkit_File_Folder_Operations_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Toolkit_File_Folder_Operations_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Toolkit_File_Folder_Operations_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Toolkit_File_Folder_Operations_H/</guid>
       <description>Toolkit: File/Folder Operations H Toolkit: File/Folder Operations V
 Use this page to:
  Copy Files Move Files Copy Folders Delete Files  To access this page, select Common &amp;gt; Toolkit &amp;gt; File/Folderin Navigationpane.
@@ -1271,10 +1271,10 @@ Use this page to:
     
     <item>
       <title>User Credentials H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/User_Credentials_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/User_Credentials_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/User_Credentials_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/User_Credentials_H/</guid>
       <description>User Credentials H User Credentials V
 Use this page to Add Stored Credentials as a User on a Page in Integrate or dspCompose.
 To access this page:
@@ -1284,10 +1284,10 @@ Use this page to Add Stored Credentials as a User on a Page in Integrate or dspC
     
     <item>
       <title>User Management H</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/User_Management_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/User_Management_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/User_Management_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/User_Management_H/</guid>
       <description>User Management H User Management V
 Use this page to:
  Create a User Account in Common Send a Temporary Password to a New User Reset a User&amp;rsquo;s Password Assign an Expiration Date to a User  To access this page, select Common &amp;gt; User Management in the Navigation pane.
@@ -1296,10 +1296,10 @@ NOTE:Excel Integration has been enabled on this page to allow for Excel-driven u
     
     <item>
       <title>User Role</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/User_Role/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/User_Role/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/User_Role/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/User_Role/</guid>
       <description>User Role Use this page to Assign a User to a Security Role in Common
 To access this page:
   Select Common &amp;gt; User Management in the Navigation pane.
@@ -1308,10 +1308,10 @@ To access this page:
     
     <item>
       <title>Work Day</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Work_Day/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Work_Day/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Work_Day/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Work_Day/</guid>
       <description>Work Day Use this page to Set Work Days and Work Hours for a Calendar.
 To access this page:
  Select Common &amp;gt; Tools &amp;gt; Calendarfrom the Navigationpane. Click Work Daysfor a calendar.           Field Description   Copy Work Hours Click to copy the work hours of the selected work day to all other work days in the calendar. If work hours are set for other work days, these work hours will be overwritten.</description>
@@ -1319,10 +1319,10 @@ To access this page:
     
     <item>
       <title>Work Hours</title>
-      <link>https://hcloward.github.io/Common/Page_Desc/Work_Hours/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Work_Hours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Common/Page_Desc/Work_Hours/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Common/Page_Desc/Work_Hours/</guid>
       <description>Work Hours Use this page to Set Work Days and Work Hours for a Calendar.
 To access this page:
  Select Common &amp;gt; Tools &amp;gt; Calendarfrom the Navigationpane. Click Work Daysfor a calendar. Click the Work Hours icon for a work day.           Field Description   START TIME Displays the start time of a shift on the selected work day.   FINISH TIME Displays the finish time of a shift on the selected work day.</description>

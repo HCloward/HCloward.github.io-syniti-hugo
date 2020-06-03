@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Syniti Documentation</title>
-    <link>https://hcloward.github.io/Sys_Admin/Page_Desc/</link>
+    <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/</link>
     <description>Recent content in Pages on Syniti Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://hcloward.github.io/Sys_Admin/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Advanced Workflow</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Advanced_Workflow/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Advanced_Workflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Advanced_Workflow/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Advanced_Workflow/</guid>
       <description>Advanced Workflow Use this page to Configure Workflow Fields.
 To configure the workflow fields:
  Select Admin &amp;gt; WebApps in the Navigation pane. Click the Pages icon for a WEB APP NAME. Click the Events icon for a DESCRIPTION. Click the Business Rules icon for an EVENT. Click Vertical View for a business rule with a PROCEDURE TYPE of Workflow. Click Workflow Fields.  Field
@@ -26,10 +26,10 @@ Displays the event that will cause the workflow to be executed.</description>
     
     <item>
       <title>All Jobs H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/All_Jobs_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/All_Jobs_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/All_Jobs_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/All_Jobs_H/</guid>
       <description>All Jobs H All Jobs V
 Use this page to View Failed Jobs.
 To access this page, click Admin &amp;gt; Resources &amp;gt; All Jobs in the Navigation pane.
@@ -38,10 +38,10 @@ To access this page, click Admin &amp;gt; Resources &amp;gt; All Jobs in the Nav
     
     <item>
       <title>Archive Attributes</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Archive_Attributes/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Archive_Attributes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Archive_Attributes/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Archive_Attributes/</guid>
       <description>Archive Attributes Use this page to view attributes associated with the archive. An attributeis a note or a set of instructions defined in the package from which the archive was created.
 Refer to Export CTS Archive to Target Instance for more information.
 To access this page:
@@ -52,10 +52,10 @@ To access this page:
     
     <item>
       <title>Archive History</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Archive_History/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Archive_History/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Archive_History/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Archive_History/</guid>
       <description>Archive History Use this while Building an Archive from a Package to view an audit log of when the package was built, installed, etc. and by whom.
 To access this page:
   Click Admin &amp;gt; CTS &amp;gt; Archives on Navigation pane.
@@ -65,10 +65,10 @@ To access this page:
     
     <item>
       <title>Archive Log</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Archive_Log/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Archive_Log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Archive_Log/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Archive_Log/</guid>
       <description>Archive Log Use this page to view information about the failed actions for the archive, such as when an install process fails. Refer to Create a CTS Package and Build Archive in Source Instance for more information.
 To access this page:
   Click Admin &amp;gt;CTS &amp;gt; Archives on Navigation pane.
@@ -78,10 +78,10 @@ To access this page:
     
     <item>
       <title>Archive Manifest</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Archive_Manifest/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Archive_Manifest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Archive_Manifest/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Archive_Manifest/</guid>
       <description>Archive Manifest Use this page while Building an Archive from a Package to view the list of contents in an archive.
 To access this page:
   Click Admin &amp;gt;CTS &amp;gt; Archives on Navigation pane.
@@ -91,10 +91,10 @@ To access this page:
     
     <item>
       <title>Archive Manifest Keys</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Archive_Manifest_Keys/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Archive_Manifest_Keys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Archive_Manifest_Keys/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Archive_Manifest_Keys/</guid>
       <description>Archive Manifest Keys Use this page while Building an Archive from a Package to view the key values defined for the parent CTS item (i.e., the information provided to CTS to indicate the specific item to include in the archive.)
 To access this page:
   Click Admin &amp;gt; CTS &amp;gt; Archives on Navigation pane.
@@ -105,10 +105,10 @@ To access this page:
     
     <item>
       <title>Archives H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Archives_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Archives_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Archives_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Archives_H/</guid>
       <description>Archives H Archive V
 Use this page to:
  Export CTS Archive to Target Instance Import Archive to the Target Instance  To access this page, click Admin &amp;gt;CTS &amp;gt; Archives on Navigation pane.
@@ -117,10 +117,10 @@ Use this page to:
     
     <item>
       <title>Audit Configuration</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Audit_Configuration/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Audit_Configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Audit_Configuration/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Audit_Configuration/</guid>
       <description>Audit Configuration Use this page while Enabling Audit Trail on a Page.
 To access this page in System Administration:
  Click Data Sources in the Navigation pane. Click the Audit icon for a data source.     Field Description     Data Source Name Displays the name of the data source for which the audit is configured.   Audit Data Source ID Displays the name of the Audit Data Source ID.</description>
@@ -128,10 +128,10 @@ To access this page in System Administration:
     
     <item>
       <title>Audit Tables H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Audit_Tables/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Audit_Tables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Audit_Tables/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Audit_Tables/</guid>
       <description>Audit Tables H Audit Tables V
 Use this page to:
  Enable Audit Trail on a Page Drop Audit Tables  To access this page in System Administration:
@@ -145,10 +145,10 @@ Drop Tables</description>
     
     <item>
       <title>Bulk Execution Panel</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Bulk_Execution_Panel/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Bulk_Execution_Panel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Bulk_Execution_Panel/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Bulk_Execution_Panel/</guid>
       <description>Bulk Execution Panel Use this page to Perform Bulk Execution.
 NOTE: The title that displays on the Bulk Execution panel is the same as the name of the page from which it is launched.
 This panel contains the following tabs:
@@ -163,10 +163,10 @@ Displays whether all records that fail for validations with a type of warning fo
     
     <item>
       <title>Catalog All Phrases</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog_All_Phrases/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog_All_Phrases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog_All_Phrases/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog_All_Phrases/</guid>
       <description>Catalog All Phrases Use this page to view all the phrases that are registered in any catalog.
 To access this page, select Admin &amp;gt; Translations &amp;gt; Phrases in the Navigation pane.
          Field Description   PHRASE Displays the phrase to be translated.   Translations Click to open the Catalog Phrase Translations (Generic) page to view and modify the translations for the corresponding phrase.</description>
@@ -174,10 +174,10 @@ To access this page, select Admin &amp;gt; Translations &amp;gt; Phrases in t
     
     <item>
       <title>Catalog Extension</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog_Extension/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog_Extension/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog_Extension/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog_Extension/</guid>
       <description>Catalog Extension Use this page to  Add a Catalog to a Delivered WebApp.
 To access this page:
  Select Admin &amp;gt; Customization &amp;gt; WebApp Customization in the Navigation pane. Click Catalogs for a WEB APP NAME.           Field Description   PRIORITY Displays priority of catalog assigned to the WebApp. If more than one catalog is assigned, the priority determines the order in which catalogs are searched.</description>
@@ -185,10 +185,10 @@ To access this page:
     
     <item>
       <title>Catalog Page Help H &lt;span id=&#34;Catalogs_Page_Help_H&#34;&gt;&lt;/span&gt;</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/catalogPageHelp/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/catalogPageHelp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/catalogPageHelp/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/catalogPageHelp/</guid>
       <description>Catalog Page Help H  Catalog Page Help V
 Use this page to Add Dynamic Help to a Page.
 To access this page:
@@ -198,10 +198,10 @@ Use this page to Add Dynamic Help to a Page.</description>
     
     <item>
       <title>Catalog Page Phrases</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog-Page-Phrases/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog-Page-Phrases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog-Page-Phrases/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog-Page-Phrases/</guid>
       <description>Catalog Page Phrases Use this page to Add Phrases to Catalogs at the Page Level.
 To access this page:
  Select Admin &amp;gt; Translations &amp;gt; WebApps in the Navigation pane. Click the Pages icon for a Catalog. Click the Phrases icon for a page.           Field Description   PHRASE Displays the phrase to be translated on the selected page.   Translations Click to open the Catalog Page Translations (Page Specific) page to view and edit the translation for the selected phrase on the page.</description>
@@ -209,10 +209,10 @@ To access this page:
     
     <item>
       <title>Catalog Phrase Translations (Generic)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog_Phrase_Translations_Generic/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog_Phrase_Translations_Generic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog_Phrase_Translations_Generic/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog_Phrase_Translations_Generic/</guid>
       <description>Catalog Phrase Translations (Generic) Use this page to Add Phrases to Catalogs.
 To access this page:
  Select Admin &amp;gt; Translations &amp;gt; Phrases in the Navigation pane. Click Translations for a PHRASE.  </description>
@@ -220,10 +220,10 @@ To access this page:
     
     <item>
       <title>Catalog Phrase Translations (Page Specific)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog-Phrase-Translations-Page-Specific/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog-Phrase-Translations-Page-Specific/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog-Phrase-Translations-Page-Specific/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog-Phrase-Translations-Page-Specific/</guid>
       <description>Catalog Phrase Translations (Page Specific) Use this page to Add Phrases to Catalogs at the Page Level.
 To access this page:
  Select Admin &amp;gt; Translations &amp;gt; WebApps in the Navigation pane. Click the Pages icon for a Catalog. Click the Phrases icon for a page. Click the Translations icon for the phrase.  </description>
@@ -231,10 +231,10 @@ To access this page:
     
     <item>
       <title>Catalog Phrases H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog_Phrases/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog_Phrases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog_Phrases/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog_Phrases/</guid>
       <description>Catalog Phrases H Catalog Phrases V
 Use this page to Add Phrases to Catalogs.
 NOTE:Excel Integration has been enabled on this page. Refer to Use Excel Integration for more information.
@@ -244,10 +244,10 @@ To access this page:
     
     <item>
       <title>Catalog WebApp</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog_WebApp/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog_WebApp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalog_WebApp/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalog_WebApp/</guid>
       <description>Catalog WebApp Use this page while Adding Phrase Out Values to Alias a Column on a Page.
 To access this page, select Admin &amp;gt; Translations &amp;gt; WebApps in the Navigation pane.
          Field Description   WEB APP NAME Displays the name of the WebApp.   Pages Click to display the pages for the selected WEB APP NAME.    </description>
@@ -255,10 +255,10 @@ To access this page, select Admin &amp;gt; Translations &amp;gt; WebApps in the 
     
     <item>
       <title>Catalogs H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalogs_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalogs_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Catalogs_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Catalogs_H/</guid>
       <description>Catalogs H Catalogs V
 Use this page to Create WebApp Catalogs.
 To access this page, select Admin &amp;gt; Translations &amp;gt; Catalogs in the Navigation pane.          Field Description   NAME Displays the name of the catalog.   Phrases Click to display the translatable phrases.    Catalogs V Catalogs H
@@ -268,10 +268,10 @@ Use this page to:
     
     <item>
       <title>Colors</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Colors/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Colors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Colors/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Colors/</guid>
       <description>Colors Use this page to Add a Color.
 To access this page, select Admin &amp;gt; Configuration &amp;gt; Style &amp;gt; Colors in the Navigation pane.
          Field Description   COLOR The color to use to represent the value on the Chart.   COLOR CODE Displays the 6-digit hexadecimal number code that represents the color.   EXAMPLE Displays an image of what the color looks like.</description>
@@ -279,20 +279,20 @@ To access this page, select Admin &amp;gt; Configuration &amp;gt; Style &amp;gt
     
     <item>
       <title>Column Events</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Column-Events/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Column-Events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Column-Events/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Column-Events/</guid>
       <description>Column Events A developer can add an event that triggers at the record level when a user clicks on a field on the page. In this case, select the column name in the EVENT list box when adding the event on the Page Events page.
 NOTE: The EVENT list box displays all of the column names that can have record-level events added.</description>
     </item>
     
     <item>
       <title>Control (Formats)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Control_Formats/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Control_Formats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Control_Formats/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Control_Formats/</guid>
       <description>Control (Formats) Use this page to View Controls and Control Formats.
 To access this page:
  Select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; Controls from the Navigation pane. Click the Formats icon for a control.  </description>
@@ -300,20 +300,20 @@ To access this page:
     
     <item>
       <title>Control Display and Limit Possible Candidates</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Control-Display-and-Limit-Possible-Candidates/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Control-Display-and-Limit-Possible-Candidates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Control-Display-and-Limit-Possible-Candidates/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Control-Display-and-Limit-Possible-Candidates/</guid>
       <description>Control Display and Limit Possible Candidates With the results of Duplicate Detection validation, the primary key in the Duplicate Detection Validation fields and any fields for which Duplicate Detection has been enabled display. To include or exclude specific columns, create a view containing the primary key columns and any additional columns that should display to the user.
 NOTE: When performing Duplicate Detection against an index of another table, the view must contain the primary key columns as defined at the index level.</description>
     </item>
     
     <item>
       <title>Controls</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Controls/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Controls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Controls/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Controls/</guid>
       <description>Controls Use this page to View Controls and Control Formats.
 To access this page select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; Controls from the Navigation pane.
    Field Description     CONTROL Displays the name of the control.   DESCRIPTION Displays a description of the control.   CUSTOMIZABLE If checked, the control can be customized. If unchecked, the control cannot be customized. Only the Toolbar control can be cuomized.</description>
@@ -321,10 +321,10 @@ To access this page select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; 
     
     <item>
       <title>Copied Pages</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Copied-Pages/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Copied-Pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Copied-Pages/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Copied-Pages/</guid>
       <description>Copied Pages Use this page to view which pages in the DSP® have been copied and used as the basis for other pages.
 To access this page, select Admin &amp;gt; Configuration &amp;gt; Copied Pages in the Navigation pane.
          Field Description   PAGE ID Displays a GUID representing the page ID of the copied page.   DESCRIPTION Displays a description of the copied page.</description>
@@ -332,10 +332,10 @@ To access this page, select Admin &amp;gt; Configuration &amp;gt; Copied Pages i
     
     <item>
       <title>Copy Page</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Copy-Page/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Copy-Page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Copy-Page/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Copy-Page/</guid>
       <description>Copy Page Use this page to Copy a Page in a WebApp.
 To access this page, either:
  Access the WebApp page. Click the Change Settings icon on the Site toolbar. Select Design. Click Vertical View for the page. Click the Advanced Properties tab. Click Copy.  OR
@@ -344,10 +344,10 @@ To access this page, either:
     
     <item>
       <title>Copy Role</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Copy_Role/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Copy_Role/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Copy_Role/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Copy_Role/</guid>
       <description>Copy Role Use this page to Copy a Security Role.
 To access this page:
   Select Admin &amp;gt; Security &amp;gt; Security Definitions &amp;gt; Security Roles in the Navigation pane.
@@ -357,10 +357,10 @@ To access this page:
     
     <item>
       <title>Copy User</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Copy_User/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Copy_User/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Copy_User/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Copy_User/</guid>
       <description>Copy User Use this page to Create a User Account Based on Another User’s Security Settings.
 To access this page:
   Select Admin &amp;gt; Security &amp;gt; Users in the Navigation pane.
@@ -370,10 +370,10 @@ To access this page:
     
     <item>
       <title>Copy WebApp User</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Copy_WebApp_User/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Copy_WebApp_User/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Copy_WebApp_User/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Copy_WebApp_User/</guid>
       <description>Copy WebApp User Use this page while Creating a User Account Based on Another User’s Security Settings.
 To access this page:
   Select Admin &amp;gt; Security &amp;gt; Users in the Navigation pane.
@@ -384,10 +384,10 @@ To access this page:
     
     <item>
       <title>Copy WebAppGroupUser</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Copy_WebAppGroupUser/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Copy_WebAppGroupUser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Copy_WebAppGroupUser/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Copy_WebAppGroupUser/</guid>
       <description>Copy WebAppGroupUser Use this page while Creating a User Account Based on Another User’s Security Settings.
 To access this page:
   Select Admin &amp;gt; Security &amp;gt; Users in the Navigation pane.
@@ -399,10 +399,10 @@ To access this page:
     
     <item>
       <title>CTS Attributes</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Attributes/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Attributes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Attributes/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Attributes/</guid>
       <description>CTS Attributes Use this page to Add Attributes.
 To access this page:
  Select Admin &amp;gt; CTS &amp;gt; Build in the Navigation pane. From the CTS Build page, click the Vertical View icon for the archive. Click Attributes.           Field Description   NAME Displays the name of the attribute.   VALUE Displays notes or instructions to include with the archive.</description>
@@ -410,10 +410,10 @@ To access this page:
     
     <item>
       <title>CTS Build H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Build_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Build_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Build_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Build_H/</guid>
       <description>CTS Build H CTS Build V
 Use this page to Create Package and Build Archive in Source Instance.
 To access this page, select Admin &amp;gt; CTS &amp;gt; Build in the Navigation pane.
@@ -422,10 +422,10 @@ To access this page, select Admin &amp;gt; CTS &amp;gt; Build in the Navigati
     
     <item>
       <title>CTS Configure (Shippable Item Keys)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-Shippable-Item-Keys/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-Shippable-Item-Keys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-Shippable-Item-Keys/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-Shippable-Item-Keys/</guid>
       <description>CTS Configure (Shippable Item Keys) Use this page to Set a Baseline CTS Configuration for a Custom WebApp.
 To access this page:
  Click Admin &amp;gt; CTS &amp;gt; Configuration in the Navigation pane. Click the Shippable Items icon. Click the Keys icon.  NOTE: Do not update the configurations on this page for delivered WebApps. However, these settings must be configured if you are CTS’ing a Custom WebApp.
@@ -434,10 +434,10 @@ To access this page:
     
     <item>
       <title>CTS Configure (Shippable Items) H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-Shippable-Items/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-Shippable-Items/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-Shippable-Items/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-Shippable-Items/</guid>
       <description>CTS Configure (Shippable Items) H CTS Configure (Shippable Items) V
 Use this page to Set a Baseline CTS Configuration for a Custom WebApp.
 To access this page:
@@ -446,10 +446,10 @@ To access this page:
     
     <item>
       <title>CTS Configure (SQL Object Dependencies)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Dependencies/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Dependencies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Dependencies/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Dependencies/</guid>
       <description>CTS Configure (SQL Object Dependencies) Use this page to view the dependencies created for DSP WebApps or to add and update the configuration for custom WebApps.
 To access this page to view all dependencies:
  Click Admin &amp;gt; CTS &amp;gt; Configuration in the Navigation pane. Click the Dependencies icon.  To access this page to view registrations for a specific object:
@@ -458,10 +458,10 @@ To access this page to view all dependencies:
     
     <item>
       <title>CTS Configure (SQL Object Registration Keys)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Registration-Keys/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Registration-Keys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Registration-Keys/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Registration-Keys/</guid>
       <description>CTS Configure (SQL Object Registration Keys) Use this page to view SQL Object key registrations for delivered and custom WebApps.
 To access this page:
  Click Admin &amp;gt; CTS &amp;gt; Configuration in the Navigation pane. Click the Registrations icon. Click the Keys icon.           Field Description   KEY NAME Displays the key name for the object registration.   COLUMN NAME Displays the name of the column that stores the key.</description>
@@ -469,10 +469,10 @@ To access this page:
     
     <item>
       <title>CTS Configure (SQL Object Registrations)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Registrations/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Registrations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Registrations/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Registrations/</guid>
       <description>CTS Configure (SQL Object Registrations) Use this page to view SQL Object registrations for delivered and custom WebApps.
 To access this page:
  Click Admin &amp;gt; CTS &amp;gt; Configuration in the Navigation pane. Click the Registrations icon.  To access this pave to view registrations for a specific object:
@@ -481,10 +481,10 @@ To access this page:
     
     <item>
       <title>CTS Configure (SQL Object Relationships)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Relationships/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Relationships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Relationships/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-SQL-Object-Relationships/</guid>
       <description>CTS Configure (SQL Object Relationships) Use this page to view the relationships created for DSP WebApps or to add and update the configuration for custom WebApps.
 To access this page to view all relationships:
  Click Admin &amp;gt; CTS &amp;gt; Configuration in the Navigation pane. Click the Relationships icon.  To access this page to view relationships for a specific object:
@@ -493,10 +493,10 @@ To access this page to view all relationships:
     
     <item>
       <title>CTS Configure (SQL Objects)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-SQL-Objects/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-SQL-Objects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-SQL-Objects/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-SQL-Objects/</guid>
       <description>CTS Configure (SQL Objects) Use this page to view the objects created for DSP WebApps or to add and update the configuration for custom WebApps.
 To access this page:
  Click Admin &amp;gt; CTS &amp;gt; Configuration in the Navigation pane. Click the SQL Objects icon for a Data Source ID.  NOTE: Do not update the configurations on this page for delivered WebApps.</description>
@@ -504,10 +504,10 @@ To access this page:
     
     <item>
       <title>CTS Configure H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Configure-H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Configure-H/</guid>
       <description>CTS Configure H 
 CTS Configure V
 Use this page to Set a Baseline CTS Configuration for a Custom WebApp.
@@ -521,10 +521,10 @@ Data Source ID</description>
     
     <item>
       <title>CTS Item Keys</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Item_Keys/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Item_Keys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Item_Keys/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Item_Keys/</guid>
       <description>CTS Item Keys Use this page while Creating a Package and Building an Archive in Source Instance.
 To access this page:
  Select Admin &amp;gt; CTS &amp;gt; Build in the Navigation pane. Click the Items icon. Click the Keys icon for an Item.           Field Description   PRIORITY Displays the order in which CTS filters get the desired item, where the lowest prioritized number represents the highest level “parent” and each subsequent priority is a “child.</description>
@@ -532,10 +532,10 @@ To access this page:
     
     <item>
       <title>CTS Items H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Items_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Items_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Items_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Items_H/</guid>
       <description>CTS Items H CTS Items V
 Use this page to Create Package and Build Archive in Source Instance.
 To access this page:
@@ -549,10 +549,10 @@ Displays item included in the package (i.e., being moved via the CTS process).</
     
     <item>
       <title>CTS Log</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Log/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Log/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Log/</guid>
       <description>CTS Log Use to view messages or errors when Creating a Package and Building an Archive in Source Instance.
 To access this page:
  Select Admin &amp;gt; CTS &amp;gt; Build in the Navigation pane. Click the Log icon.  </description>
@@ -560,10 +560,10 @@ To access this page:
     
     <item>
       <title>CTS Package Export</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Package_Export/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Package_Export/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Package_Export/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Package_Export/</guid>
       <description>CTS Package Export Use this page to Export CTS Archive to Target Instance.
 To access this page:
  Select Admin &amp;gt; CTS &amp;gt; Archivesin the Navigation pane. Click Export for archive to move the file to a designated instance.  </description>
@@ -571,10 +571,10 @@ To access this page:
     
     <item>
       <title>CTS Packing List By Config Item</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Packing-List-Config-Item/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Packing-List-Config-Item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Packing-List-Config-Item/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Packing-List-Config-Item/</guid>
       <description>CTS Packing List By Config Item Use this page to Review Packing List to Exclude Specific Items.
 To access this page:
  Select Admin &amp;gt; CTS &amp;gt; Build in the Navigation pane. Click any of the buttons on the CTS Packing List Summary page.  NOTE: The records that display on this page depend on the selection made on the CTS Packing List Summary page.
@@ -583,10 +583,10 @@ To access this page:
     
     <item>
       <title>CTS Packing List H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Packing_List_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Packing_List_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Packing_List_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Packing_List_H/</guid>
       <description>CTS Packing List H CTS Packing List V
 Use this page to Review Packing List.
 To access this page:
@@ -595,10 +595,10 @@ To access this page:
     
     <item>
       <title>CTS Packing List Keys</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Packing_List_Keys/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Packing_List_Keys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS_Packing_List_Keys/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS_Packing_List_Keys/</guid>
       <description>CTS Packing List Keys Use this page to Review Packing List.
 To access this page:
  Verify the package was built. Select Admin &amp;gt; CTS &amp;gt; Build in the Navigation pane. Click Packing List on the CTS Build page. Click the Keys icon for an item.           Field Description   PRIORITY Displays the order in which CTS filters get the desired item, where the lowest prioritized number represents the highest level “parent” and each subsequent priority is a &amp;ldquo;child.</description>
@@ -606,10 +606,10 @@ To access this page:
     
     <item>
       <title>CTS Packing List Summary</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Packing-List-Summary/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Packing-List-Summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/CTS-Packing-List-Summary/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/CTS-Packing-List-Summary/</guid>
       <description>CTS Packing List Summary Use this page to Review Packing List to Exclude Specific Items.
 To access this page:
  Select Admin &amp;gt; CTS &amp;gt; Build in the Navigation pane. Click the Packing List icon.           Field Description   DESCRIPTION Displays a description of the config item.   ALL Click to open the CTS Packing List By Config Item page displaying all items added to the packing list to be moved via the CTS process.</description>
@@ -617,10 +617,10 @@ To access this page:
     
     <item>
       <title>Custom Page Column Links</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Custom_Page_Column_Links/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Custom_Page_Column_Links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Custom_Page_Column_Links/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Custom_Page_Column_Links/</guid>
       <description>Custom Page Column Links Use this page to Add Custom Links to a Page.
 This page contains the following tabs:
   General tab
@@ -636,10 +636,10 @@ Displays the column name that appears as the custom link.</description>
     
     <item>
       <title>Customization Review</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Customization-Review/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Customization-Review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Customization-Review/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Customization-Review/</guid>
       <description>Customization Review Use this page to review customization settings for dashboards.
 To access this page;
  Select Admin &amp;gt; Customization &amp;gt; WebApp Customization in the Navigation pane. Click the Pages icon for a WebApp. Click the Review icon for a page. Click the Review icon for a user ID.           Field Description   USER ID Displays the user ID.   REVIEW Click to view the customization settings for the dashboard for the user.</description>
@@ -647,10 +647,10 @@ To access this page;
     
     <item>
       <title>Data Source Audit Report</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Data_Source_Audit_Report/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Data_Source_Audit_Report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Data_Source_Audit_Report/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Data_Source_Audit_Report/</guid>
       <description>Data Source Audit Report Use this page to view audit reports for data sources.
 To access this page in System Administration, click Data Sources &amp;gt; Audit Report in the Navigation pane.
          Field Description   Active Instance Displays the name of the active DSP instance that is producing the audit report.   Only Show Warnings and Errors If checked, the audit report will only display warnings and errors for the associated data sources.</description>
@@ -658,10 +658,10 @@ To access this page in System Administration, click Data Sources &amp;gt; Audit 
     
     <item>
       <title>Data Source Column Encryption</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Data_Source_Column_Encryption/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Data_Source_Column_Encryption/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Data_Source_Column_Encryption/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Data_Source_Column_Encryption/</guid>
       <description>Data Source Column Encryption Use this page to:
  Encrypt Password for CranSoft® Data Source Encrypt a Column  To access this page:
   SelectAdmin &amp;gt; Data Sourcesin the Navigation pane.
@@ -671,10 +671,10 @@ To access this page in System Administration, click Data Sources &amp;gt; Audit 
     
     <item>
       <title>Data Source Features</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/DataSourceFeatures/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/DataSourceFeatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/DataSourceFeatures/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/DataSourceFeatures/</guid>
       <description>Data Source Features Use this page to view data source features. Refer to View Data Source Types and Features for more information about how data source features function in the DSP.
 To access this page in System Administration, click Configuration &amp;gt; Setup &amp;gt; Data Source Features in the Navigation pane.
          Field Description   FEATURE NAME Displays the name of the data source feature.</description>
@@ -682,10 +682,10 @@ To access this page in System Administration, click Configuration &amp;gt; Setup
     
     <item>
       <title>Data Source Instances H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/DataSourceInstancesH/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/DataSourceInstancesH/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/DataSourceInstancesH/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/DataSourceInstancesH/</guid>
       <description>Data Source Instances H Data Source Instances V
 Use this page to Add a Data Source Instance.
 To access this page in System Administration:
@@ -698,20 +698,20 @@ Click to test the connection to the Data Source, which verifies the database Use
     
     <item>
       <title>Data Source Sequences</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Data_Source_Sequences/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Data_Source_Sequences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Data_Source_Sequences/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Data_Source_Sequences/</guid>
       <description>Data Source Sequences NOTE: This page is currently not in use.
          Field Description   SEQUENCE NAME Displays the name of sequence as registered in the Oracle database.   TABLE NAME Displays the table name the sequence is mapped to, referenced during inserts to this table.   COLUMN NAME Displays the column name to which the sequence value is mapped.</description>
     </item>
     
     <item>
       <title>Data Source Type Features</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/DataSourceTypeFeatures/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/DataSourceTypeFeatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/DataSourceTypeFeatures/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/DataSourceTypeFeatures/</guid>
       <description>Data Source Type Features Use this page to View Data Source Features.
 To access this page in System Administration:
  Click Configuration &amp;gt; Setup &amp;gt; Data Source Types in the Navigation pane. Click the Features icon for a data source type.           Field Description   DATA SOURCE FEATURE ID Displays the name of the data source feature ID.   DESCRIPTION Displays a description of the data source type feature.</description>
@@ -719,20 +719,20 @@ To access this page in System Administration:
     
     <item>
       <title>Data Source Types</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/DataSourceTypes/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/DataSourceTypes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/DataSourceTypes/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/DataSourceTypes/</guid>
       <description>Data Source Types Use this page to View Data Source Types and Features.
 To access this page in System Administration, click Configuration &amp;gt; Setup &amp;gt; Data Source Types in the Navigation pane.</description>
     </item>
     
     <item>
       <title>Data Sources H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Data_Sources_HSysAdmi/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Data_Sources_HSysAdmi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Data_Sources_HSysAdmi/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Data_Sources_HSysAdmi/</guid>
       <description>Data Sources H NOTE:It is recommended that data sources be registered in Common instead of System Administration. A Data Services data source must be registered in Common and cannot be registered in System Administration.
 Use this page to:
  Register a Data Source Register the Database for a Custom WebApp Append BOA Reserved Columns to Tables Encrypt a Column  The configuration of the VerticalView depends on the Data Source Type.</description>
@@ -740,10 +740,10 @@ Use this page to:
     
     <item>
       <title>Database Types H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Database_Types_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Database_Types_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Database_Types_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Database_Types_H/</guid>
       <description>Database Types H Database Types V
 Use this page to add database types.
 To access this page select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; Database Types from the Navigation pane.
@@ -752,30 +752,30 @@ To access this page select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; 
     
     <item>
       <title>Database: Current Connections</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/DatabaseCurrentConnections/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/DatabaseCurrentConnections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/DatabaseCurrentConnections/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/DatabaseCurrentConnections/</guid>
       <description>Database: Current Connections Use this page to view databases currently connected to the DSP because of file reads, writes, executing processes or other factors.
 To access this page, select Admin &amp;gt; Resources &amp;gt; SQL Server Health &amp;gt; Database: Current Connections in the Navigation pane.</description>
     </item>
     
     <item>
       <title>Database: Current Requests</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/DatabaseCurrentRequests/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/DatabaseCurrentRequests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/DatabaseCurrentRequests/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/DatabaseCurrentRequests/</guid>
       <description>Database: Current Requests Use the Database: Current Requests page to view information about each database request per session ID that is executing within the SQL server environment.
 To access this chart in System Administration, select Admin &amp;gt; Resources &amp;gt; SQL Server Health &amp;gt; Database: Current Requests in the Navigation pane.</description>
     </item>
     
     <item>
       <title>Decrypt</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Decrypt/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Decrypt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Decrypt/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Decrypt/</guid>
       <description>Decrypt Use this page to Decrypt Data.
 To access this page, select Configuration &amp;gt; Encryption &amp;gt; Decrypt in the Navigation pane.
          Field Description   ENCRYPTED DATA Displays data to be decrypted.   Show Plaintext Click to display a notification with the decrypted data.    </description>
@@ -783,10 +783,10 @@ To access this page, select Configuration &amp;gt; Encryption &amp;gt; Decrypt i
     
     <item>
       <title>Definition</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Definition/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Definition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Definition/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Definition/</guid>
       <description>Definition Use this page to view the Stored Procedure associated with a page event’s business rule.
 To access this page:
  Click WebApps in the Navigation pane. Click the Pages icon; the Pages page is displayed. Click the Events icon for a page; the Page Events page is displayed. Click the Business Rules icon for an event; the Page Business Rules page is displayed. Click Vertical View for a Stored Procedure.</description>
@@ -794,10 +794,10 @@ To access this page:
     
     <item>
       <title>Dictionaries</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Dictionaries/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Dictionaries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Dictionaries/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Dictionaries/</guid>
       <description>Dictionaries Use this page to:
  Create Dictionaries Configure Columns in Common  This page can be accessed in two ways.
 To access this page in Common:
@@ -810,10 +810,10 @@ To access this page in Common:
     
     <item>
       <title>Dictionary Words</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Dictionary_Words/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Dictionary_Words/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Dictionary_Words/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Dictionary_Words/</guid>
       <description>Dictionary Words Use this page to Configure Columns in Common.
 There are two ways to access this page.
 To access this page in Common:
@@ -828,19 +828,19 @@ To access this page in Common:
     
     <item>
       <title>Encryption Keys</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Encryption-Keys/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Encryption-Keys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Encryption-Keys/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Encryption-Keys/</guid>
       <description>Encryption Keys Use this page to set the name of the key used while encrypting a column.</description>
     </item>
     
     <item>
       <title>Excel Integration Panel</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Excel_Integration_Panel/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Excel_Integration_Panel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Excel_Integration_Panel/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Excel_Integration_Panel/</guid>
       <description>Excel Integration Panel Use this page to:
  Download an Excel Spreadsheet Import Data Unlock Records  This panel contains the following tabs:
  Download Template Import Data  To access this page:
@@ -851,10 +851,10 @@ Navigate to the page where the Excel template is to be downloaded. Select Excel 
     
     <item>
       <title>Failed Jobs H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Failed_Jobs_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Failed_Jobs_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Failed_Jobs_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Failed_Jobs_H/</guid>
       <description>Failed Jobs H Failed Jobs V
 Use this page to View Failed Jobs.
 To access this page:
@@ -872,10 +872,10 @@ Displays the type of job. The types are:</description>
     
     <item>
       <title>Forbidden Passwords</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Forbidden_Passwords/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Forbidden_Passwords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Forbidden_Passwords/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Forbidden_Passwords/</guid>
       <description>Forbidden Passwords Use this page to Set Forbidden Passwords.
 To access this page, select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; Forbidden Passwordsin the Navigationpane.
          Field Description   WORD Displays a word that cannot be used as a password for a user’s account. If the user attempts to save a forbidden password, an error message displays.    </description>
@@ -883,10 +883,10 @@ To access this page, select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt
     
     <item>
       <title>Group Page List</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Group_Page_List/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Group_Page_List/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Group_Page_List/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Group_Page_List/</guid>
       <description>Group Page List Use this page to View the WebApp Groups and WebApp Pages that a User can Access.
 To access this page:
   Select Admin &amp;gt; Security &amp;gt; Users in the Navigationpane.
@@ -897,10 +897,10 @@ To access this page:
     
     <item>
       <title>Group Pages</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Group_Pages/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Group_Pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Group_Pages/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Group_Pages/</guid>
       <description>Group Pages Use this page to Set Page Security for WebApp Groups.
 To access this page:
   Click Admin &amp;gt;WebApps on Navigation pane.
@@ -911,10 +911,10 @@ To access this page:
     
     <item>
       <title>Groups</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Groups/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Groups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Groups/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Groups/</guid>
       <description>Groups Use this page to Create Groups.
 To access this page:
   Click Admin &amp;gt;WebApps on Navigation pane.
@@ -924,10 +924,10 @@ To access this page:
     
     <item>
       <title>Images H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Images-H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Images-H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Images-H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Images-H/</guid>
       <description>Images H Images V
 Use this page to Add an Image to the DSP®.
 To access this page, select Admin &amp;gt; Configuration &amp;gt; Style &amp;gt; Images in the Navigation pane.
@@ -936,10 +936,10 @@ Images V Images H</description>
     
     <item>
       <title>Index (Specification) H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Index-Specification-H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Index-Specification-H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Index-Specification-H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Index-Specification-H/</guid>
       <description>Index (Specification) H Index (Specification) V
 Use this page to:
  Create an Index Configure an Index Build Index Objects  To access this page:
@@ -954,10 +954,10 @@ Displays the name of the table that is indexed.</description>
     
     <item>
       <title>Index Columns</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Index-Columns/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Index-Columns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Index-Columns/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Index-Columns/</guid>
       <description>Index Columns Use this page to Add a Column to an Index.
 To access this page:
  Select Admin &amp;gt; Data Sources in the Navigation pane. Click the Index icon for a data source. Click the Columns icon for a table.  </description>
@@ -965,10 +965,10 @@ To access this page:
     
     <item>
       <title>Indices H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Indices-H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Indices-H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Indices-H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Indices-H/</guid>
       <description>Indices H Indices V
 Use this page to:
  Populate an index Stop a Running Index  To access this page, select Admin &amp;gt; Resources &amp;gt; Indices in the Navigation pane.
@@ -977,10 +977,10 @@ Use this page to:
     
     <item>
       <title>Instances</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Instances/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Instances/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Instances/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Instances/</guid>
       <description>Instances Use this page to Set up Instances.
 To access this page:
   Log in to the DSP® source instance.
@@ -990,10 +990,10 @@ To access this page:
     
     <item>
       <title>Job Queue (Task) H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Job_Queue_Task/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Job_Queue_Task/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Job_Queue_Task/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Job_Queue_Task/</guid>
       <description>Job Queue (Task) H Job Queue (Task) V
 Use this page to view the tasks for failed jobs.
 To access this page:
@@ -1003,10 +1003,10 @@ To access this page:
     
     <item>
       <title>Job Queue Task Params</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Job_Queue_Task_Params_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Job_Queue_Task_Params_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Job_Queue_Task_Params_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Job_Queue_Task_Params_H/</guid>
       <description>Job Queue Task Params Use this page to:
  View Failed Jobs Acknowledge Failed Jobs  To access this page:
   Click the yellow Services icon on the Site toolbar.
@@ -1019,20 +1019,20 @@ Click Admin &amp;gt; Resources &amp;gt; Jobs (Failed) in the Navigation pane
     
     <item>
       <title>Job Status Types</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Job-Status-Type/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Job-Status-Type/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Job-Status-Type/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Job-Status-Type/</guid>
       <description>Job Status Types Use this page to Configure Job Status Types.
 To access this page, select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; Job Status Types in the Navigation pane.</description>
     </item>
     
     <item>
       <title>Job Types</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Job-Types/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Job-Types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Job-Types/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Job-Types/</guid>
       <description>Job Types Use this page to Set the Default Queue for a Job Type.
 To access this page, select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; Job Types in the Navigation pane.
          Field Description   JOB TYPE Displays the name of the job type.   DEFAULT QUEUE Displays the type of queue that jobs of this type are processed in.    </description>
@@ -1040,10 +1040,10 @@ To access this page, select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt;
     
     <item>
       <title>Jobs (Failed) H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Jobs_Failed_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Jobs_Failed_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Jobs_Failed_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Jobs_Failed_H/</guid>
       <description>Jobs (Failed) H Jobs (Failed) V
 Use this page to:
  View Failed Jobs Acknowledge Failed Jobs  To access this page:
@@ -1055,10 +1055,10 @@ Click Admin &amp;gt; Resources &amp;gt; Jobs (Failed) in Navigation pane.
     
     <item>
       <title>Languages</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Languages/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Languages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Languages/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Languages/</guid>
       <description>Languages Use this page to Set a Language As Active and Merge a Language.
 To access this page, select Admin &amp;gt; Translations &amp;gt; Languages in the Navigation pane.
          Field Description   LANGUAGE Displays the language name in English.   NATIVE NAME Displays the LANGUAGE name in the native language   CODE Displays the two-letter locale code for the corresponding LANGUAGE name.</description>
@@ -1066,10 +1066,10 @@ To access this page, select Admin &amp;gt; Translations &amp;gt; Languages in 
     
     <item>
       <title>Layout Frames</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Layout-Frames/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Layout-Frames/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Layout-Frames/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Layout-Frames/</guid>
       <description>Layout Frames Use this page to:
  Create a Header Detail Page Create a Dashboard  NOTE: Different columns display on this page depending on how it is accessed.
 To access this page:
@@ -1079,10 +1079,10 @@ To access this page:
     
     <item>
       <title>Layouts</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Layouts/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Layouts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Layouts/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Layouts/</guid>
       <description>Layouts Use this page to:
  Add Layouts Copy a Layout  To access this page select Admin &amp;gt; Configuration &amp;gt; Layouts from the Navigation pane.
 OR
@@ -1091,10 +1091,10 @@ While creating a dashboard, click the + icon in the Layout ID field on the Verti
     
     <item>
       <title>Link Customization</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/LinkCustomization/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/LinkCustomization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/LinkCustomization/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/LinkCustomization/</guid>
       <description>Link Customization Link Customization V
 Use this page to Add Custom Links to a Page.
 To access this page:
@@ -1109,10 +1109,10 @@ Displays the image that will be added to the toolbar for the custom link.</descr
     
     <item>
       <title>Locales</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Locales/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Locales/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Locales/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Locales/</guid>
       <description>Locales Use this page to Detect Locales.
 To access this page, select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; Locales in the Navigation pane.
          Field Description   Detect Locales Click to check the browser settings for the current user&amp;rsquo;s locale if that locale is not installed in the DSP®.   LCID Displays the system-generated unique ID for the locale.   DESCRIPTION Displays the language associated with the locale.</description>
@@ -1120,20 +1120,20 @@ To access this page, select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt;
     
     <item>
       <title>Log Types</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Log-Types/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Log-Types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Log-Types/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Log-Types/</guid>
       <description>Log Types Use this page to configure log type settings.
 To access this page, select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; Log Types in the Navigation pane.</description>
     </item>
     
     <item>
       <title>Menu Links</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Menu-Links/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Menu-Links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Menu-Links/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Menu-Links/</guid>
       <description>Menu Links Use this page to add a menu to the Navigation pane.
 To access this page:
  Select Admin &amp;gt; WebApps from the Navigation pane. Click Menus. Click Menu Links.  </description>
@@ -1141,10 +1141,10 @@ To access this page:
     
     <item>
       <title>Menus</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Menus/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Menus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Menus/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Menus/</guid>
       <description>Menus Use this page to add a menu to the Navigation pane.
 To access this page:
  Select Admin &amp;gt; WebApps from the Navigation pane. Click Menus.           Field Description   MENU NAME Displays the main menu name.   Menu Links Click to open the menu links page to add a link to the main menu and add submenu options for the main menu.</description>
@@ -1152,10 +1152,10 @@ To access this page:
     
     <item>
       <title>Message Types H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Message-Types/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Message-Types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Message-Types/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Message-Types/</guid>
       <description>Message Types H Message Types V
 Use this page to Add a Message Type.
 To access this page, select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; Message Types.
@@ -1170,10 +1170,10 @@ NOTE: Name the message so that developers and users can ascertain the scope of t
     
     <item>
       <title>Page (Chart Properties)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page-Chart-Properties/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page-Chart-Properties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page-Chart-Properties/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page-Chart-Properties/</guid>
       <description>Page (Chart Properties) Use this page to Modify a Chart.
 To access this page:
  Click Admin &amp;gt; WebApps on the Navigation pane. Click the Pages icon for a WebApp. Click Vertical View for a page with a page type of Chart. Click the Chart Properties button.  Field
@@ -1186,10 +1186,10 @@ Displays the stacked chart as either normal or percentage. Values are:
     
     <item>
       <title>Page Business Rules H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Business_Rules_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Business_Rules_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Business_Rules_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Business_Rules_H/</guid>
       <description>Page Business Rules H Page Business Rules V
 Use this page to
  Register Workflow Views. Create a Stored Procedure Business Rule Create an External Page Business Rule Create a WebApp Event Business Rule Create a WebApp Event (Private) Business Rule  To access this page:
@@ -1200,10 +1200,10 @@ Use this page to
     
     <item>
       <title>Page Column Links</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page-Column-Links/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page-Column-Links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page-Column-Links/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page-Column-Links/</guid>
       <description>Page Column Links Use this page to Add Binding Criteria when Linking to a Page.
 To access this page:
  Navigate to the Page Columns page. Click the link in the LINK TO PAGE column.  This page contains the following tabs:
@@ -1216,10 +1216,10 @@ Displays a comma-separated list of columns used to filter data on a linked page.
     
     <item>
       <title>Page Columns H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Columns_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Columns_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Columns_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Columns_H/</guid>
       <description>Page Columns H Page Columns V
 Use this page to
  Configure Columns for Exporting Add a Control Type to a Column Link to a Page Using Buttons and Images Add a Toolbar Button Set Column Control Status Set a Column&amp;rsquo;s Format Set Default Field Value for a Column Add an HTML Area to a Column Enable Dynamic Image Add a Label Add a tab Enable Show in Navigation Set Spanning Properties Enable File Upload and Download Add List Boxes and Combo Boxes Add a Watermark Add a Tooltip Enable Electronic Signature Assign Column Properties Link to a Report from a Page Include all Page Details in Reports Set Required Fields Create Chart Drill Down  There are three ways to access this page:</description>
@@ -1227,10 +1227,10 @@ Use this page to
     
     <item>
       <title>Page Customization</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Customization/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Customization/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Customization/</guid>
       <description>Page Customization Use this page to Customize Dashboard Pages.
 To access this page:
   Select Admin &amp;gt; Customization &amp;gt; WebApp Customization in the Navigation pane.
@@ -1240,10 +1240,10 @@ To access this page:
     
     <item>
       <title>Page Event Parameters H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Event_Param_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Event_Param_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Event_Param_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Event_Param_H/</guid>
       <description>Page Event Parameters H Page Event Parameters V
 Use this page to Set Parameters for a Public WebApp Event.
 To access this page:
@@ -1257,10 +1257,10 @@ To access this page:
     
     <item>
       <title>Page Event Rule Parameters</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Event_Rule_Parameters/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Event_Rule_Parameters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Event_Rule_Parameters/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Event_Rule_Parameters/</guid>
       <description>Page Event Rule Parameters Use this page to Set a Parameter Value for Business Rule Parameters for a Public WebApp Event.
 To access this page:
  Select Admin &amp;gt; WebApps in the Navigation pane. Click the Pages icon for a WEB APP NAME. Click the Events icon for a page. Click the Business Rules icon for an event. Click Vertical View for a Business Rule with a procedure type of WebApp Event.</description>
@@ -1268,10 +1268,10 @@ To access this page:
     
     <item>
       <title>Page Events H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Events_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Events_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Events_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Events_H/</guid>
       <description>Page Events H Page Events V
 Use this page to:
  Register Workflow Views Create an OnValidate Page Event for Bulk Execution Register a Validation Rule to a Page Create a Business Rule for a Field  Refer to Event Design Process for additional information about this page.
@@ -1281,10 +1281,10 @@ To access this page:
     
     <item>
       <title>Page Extension - By Role</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Extension_By_Role/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Extension_By_Role/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Extension_By_Role/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Extension_By_Role/</guid>
       <description>Page Extension - By Role Use this page to Customize the Page to Display for Members of a Security Role.
 To access this page:
   Select Admin &amp;gt; Customization &amp;gt; WebApp Customization in Navigation pane.
@@ -1295,10 +1295,10 @@ To access this page:
     
     <item>
       <title>Page Extension - By User</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Extension_By_User/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Extension_By_User/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Extension_By_User/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Extension_By_User/</guid>
       <description>Page Extension - By User Use this page to Customize the Page to Display for Individual Users.
 To access this page:
   Select Admin &amp;gt; Customization &amp;gt; WebApp Customization in Navigation pane.
@@ -1309,10 +1309,10 @@ To access this page:
     
     <item>
       <title>Page Extension - Default</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Extension_Default/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Extension_Default/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Extension_Default/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Extension_Default/</guid>
       <description>Page Extension - Default Use this page to Customize the Page to Display for All Users.
 To access this page:
   Select Admin &amp;gt; Customization &amp;gt; WebApp Customization in Navigation pane.
@@ -1329,10 +1329,10 @@ Displays the layout ID. Allows for the selection of an alternate layout to repla
     
     <item>
       <title>Page Groups</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page-Groups/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page-Groups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page-Groups/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page-Groups/</guid>
       <description>Page Groups Use this page to Set Page Security for WebApp Groups.
 To access this page:
   Click Admin &amp;gt; WebApps on Navigation pane.
@@ -1342,10 +1342,10 @@ To access this page:
     
     <item>
       <title>Page Type Controls</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page-Type-Controls/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page-Type-Controls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page-Type-Controls/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page-Type-Controls/</guid>
       <description>Page Type Controls Use this page to view the controls available for a selected page type. Refer to View the Controls Available for a Page Type for more information.
 To access this page:
  Select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; Page Types in the Navigation pane. Click the CONTROLS button.           Field Description   CONTROL Displays the controls (e.g., button, text box or toolbar) that can be used on pages based on the selected page type.</description>
@@ -1353,20 +1353,20 @@ To access this page:
     
     <item>
       <title>Page Types</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page-Types/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page-Types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page-Types/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page-Types/</guid>
       <description>Page Types Use this page to view page types.
 To access this page, select Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; Page Types in the Navigation pane.</description>
     </item>
     
     <item>
       <title>Page Validation Rules H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Validation_Rules/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Validation_Rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Page_Validation_Rules/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Page_Validation_Rules/</guid>
       <description>Page Validation Rules H Page Validation Rules V
 Use this page to Register a Validation Rule to a Page.
 To access this page:
@@ -1376,10 +1376,10 @@ Use this page to Register a Validation Rule to a Page.</description>
     
     <item>
       <title>Pages Catalog</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Pages-Catalog/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Pages-Catalog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Pages-Catalog/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Pages-Catalog/</guid>
       <description>Pages Catalog Use this page while adding help or phrase translations at the page level.
 To access this page:
  Select Admin &amp;gt; Translations &amp;gt; WebApps in the Navigation pane. Click the Pages icon for a WEB APP NAME.  </description>
@@ -1387,10 +1387,10 @@ To access this page:
     
     <item>
       <title>Pages H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Pages_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Pages_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Pages_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Pages_H/</guid>
       <description>Pages H Pages V
 Use this page to:
  Configure Business Rule Settings Create a Chart Page Design Pages Create a Dynamic Page Assign Page Properties to a Dynamic Page Create a Header Detail Page Create a Static Page Create a Service Page Create a Chart Page Create a Dashboard Page Create a Report Page Copy a Page in a WebApp  To access this page:
@@ -1399,10 +1399,10 @@ Use this page to:
     
     <item>
       <title>Parameters (All Tabs)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Parameters_All_TabsSysAdmin/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Parameters_All_TabsSysAdmin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Parameters_All_TabsSysAdmin/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Parameters_All_TabsSysAdmin/</guid>
       <description>Parameters (All Tabs) Use this page to:
  Mark Target and Source Instances Configure CTS Passwords Configure Authentication Settings Configure Warning Message Timing for License Expiration  This page contains the following tabs:
  Site Parameters tab Security Settings tab Workflow Parameters tab Timeouts tab Page Parameters tab Search Options tab Language Support tab Service Options tab Naming Conventions tab System Chart Options Logging Options  Site Parameters tab Use this tab to:</description>
@@ -1410,10 +1410,10 @@ Use this page to:
     
     <item>
       <title>Plugin Assemblies H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Plugin-Assemblies-H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Plugin-Assemblies-H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Plugin-Assemblies-H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Plugin-Assemblies-H/</guid>
       <description>Plugin Assemblies H Plugin Assemblies (V)
 Use this page to Register the Plugin Assembly.
 To access this page:
@@ -1427,10 +1427,10 @@ Displays the plugin assembly name relative to the UserArea\[WebAppID]\Processes 
     
     <item>
       <title>Plugin Business Rules</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Plugin-Business-Rules/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Plugin-Business-Rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Plugin-Business-Rules/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Plugin-Business-Rules/</guid>
       <description>Plugin Business Rules Use this page to:
  Register the Plugin as an External Page View where Plugin is used within the DSP  To access this page:
  Select Admin &amp;gt; WebApps in the Navigation pane. Click the Plugins icon for the desired WEB APP NAME. Click the Plugins icon for the desired ASSEMBLY PATH. Click the Business Rules icon for the desired PLUGIN NAME.  </description>
@@ -1438,10 +1438,10 @@ Displays the plugin assembly name relative to the UserArea\[WebAppID]\Processes 
     
     <item>
       <title>Plugin List Data Providers</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Plugin-List-Data-Providers/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Plugin-List-Data-Providers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Plugin-List-Data-Providers/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Plugin-List-Data-Providers/</guid>
       <description>Plugin List Data Providers Use this page to View Where Plugin is Used within the DSP.
 To access this page:
  Select Admin &amp;gt; WebApps in the Navigation pane. Click the Plugins icon for the desired WEBAPP NAME. Click the Plugins icon for the desired RELATIVE ASSEMBLY PATH. Click theList Data Providers icon for the desired PLUGIN NAME DESCRIPTION.           Field Description   WEB APP NAME Displays the name of the WebApp where the list data provider resides.</description>
@@ -1449,10 +1449,10 @@ To access this page:
     
     <item>
       <title>Plugin Validation Rules</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Plugin-Validation-Rules/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Plugin-Validation-Rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Plugin-Validation-Rules/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Plugin-Validation-Rules/</guid>
       <description>Plugin Validation Rules Use this page to View Where Plugin is Used within the DSP.
 To access this page:
   Select Admin &amp;gt; WebApps in the Navigation pane.
@@ -1464,10 +1464,10 @@ To access this page:
     
     <item>
       <title>Plugins H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Plugins-H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Plugins-H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Plugins-H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Plugins-H/</guid>
       <description>Plugins H Plugins (V)
 Use this page to Register the Plugin Assembly.
 To access this page:
@@ -1483,10 +1483,10 @@ Basic Properties</description>
     
     <item>
       <title>Queues</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Queues/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Queues/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Queues/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Queues/</guid>
       <description>Queues Use this page to set the start and end time for queues.
 To access this page, select Admin &amp;gt; Configuration &amp;gt; Service &amp;gt; Queues in the Navigation pane.
          Field Description   QUEUE NAME Displays the type of queue to which jobs are assigned.   START TIME Displays the time jobs in this queue type are scheduled to start, if manually set by a user.</description>
@@ -1494,20 +1494,20 @@ To access this page, select Admin &amp;gt; Configuration &amp;gt; Service &amp;g
     
     <item>
       <title>Queues (Monitor)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Queues-Monitor/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Queues-Monitor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Queues-Monitor/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Queues-Monitor/</guid>
       <description>Queues (Monitor) Use this page to:
  Start, Stop or Clear Queues Acknowledge Failed Jobs  To access this page, select Admin &amp;gt; Resources &amp;gt; Queues in the Navigation pane.</description>
     </item>
     
     <item>
       <title>Quick Links H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Quick_Links_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Quick_Links_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Quick_Links_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Quick_Links_H/</guid>
       <description>Quick Links H Quick Links V
 The available fields on the Quick Links page vary depending on how the page is accessed.
 Use this page to:
@@ -1518,10 +1518,10 @@ Use this page to:</description>
     
     <item>
       <title>Recent Service Activity</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Recent-Service-Activity/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Recent-Service-Activity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Recent-Service-Activity/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Recent-Service-Activity/</guid>
       <description>Recent Service Activity Use this page to view jobs that are completed in the queue selected on the Queues (Monitor) page.
 To access this page:
  Select Admin &amp;gt; Resources &amp;gt; Queues in the Navigation pane. Click the Log button for a queue.  </description>
@@ -1529,10 +1529,10 @@ To access this page:
     
     <item>
       <title>Report Group Columns</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Report-Group-Columns/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Report-Group-Columns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Report-Group-Columns/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Report-Group-Columns/</guid>
       <description>Report Group Columns Use this page to Add Columns to a Report.
 To access this page:
   Select Admin &amp;gt; WebApps in the Navigation pane.
@@ -1546,10 +1546,10 @@ For a report page type, click the Report Groups icon.</description>
     
     <item>
       <title>Report Groups</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Report-Groups/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Report-Groups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Report-Groups/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Report-Groups/</guid>
       <description>Report Groups Use this page to Create Report Groups.
 To access this page:
   Select Admin &amp;gt; WebApps in the Navigation pane.
@@ -1563,20 +1563,20 @@ For a report page type, click the Report Groups icon.</description>
     
     <item>
       <title>Resources</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Resources/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Resources/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Resources/</guid>
       <description>Resources Use this page to:
  View Failed Jobs View Resource Charts in System Administration  To access this page, click Admin &amp;gt; Resources &amp;gt; Monitor in the Navigation pane.</description>
     </item>
     
     <item>
       <title>Role Key Values</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Role_Key_Values/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Role_Key_Values/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Role_Key_Values/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Role_Key_Values/</guid>
       <description>Role Key Values Use this page to Assign Keys to Security Role.
 To access this page:
   Select Admin &amp;gt; Security &amp;gt; Security Definitions &amp;gt; Security Roles in the Navigation pane.
@@ -1587,10 +1587,10 @@ To access this page:
     
     <item>
       <title>Role Users</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Role_Users/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Role_Users/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Role_Users/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Role_Users/</guid>
       <description>Role Users Use this page to Assign Users to Security Roles.
 To access this page:
   Select Admin &amp;gt;Security &amp;gt; Security Definitions &amp;gt; Security Roles in the Navigation pane.
@@ -1600,10 +1600,10 @@ To access this page:
     
     <item>
       <title>Security Definition Keys</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Definition_Keys/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Definition_Keys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Definition_Keys/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Definition_Keys/</guid>
       <description>Security Definition Keys Use this page to Register Security Definitions.
 To access this page:
   Select Admin &amp;gt;Security &amp;gt; Security Definitions &amp;gt; Security Definitions in the Navigation pane.
@@ -1613,10 +1613,10 @@ To access this page:
     
     <item>
       <title>Security Definition Page Column Bindings</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/SecurityDefPgColbindings/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/SecurityDefPgColbindings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/SecurityDefPgColbindings/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/SecurityDefPgColbindings/</guid>
       <description>Security Definition Page Column Bindings Use this page to Register Security Definitions to Components (WebApps).
 To access this page:
   Select Admin &amp;gt;WebApps in Navigation pane.
@@ -1628,10 +1628,10 @@ To access this page:
     
     <item>
       <title>Security Definition Pages</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Definition_Pages/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Definition_Pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Definition_Pages/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Definition_Pages/</guid>
       <description>Security Definition Pages Use this page to Register Security Definitions to Components (WebApps).
 To access this page:
   Select Admin &amp;gt; WebApps in the Navigation pane.
@@ -1642,10 +1642,10 @@ To access this page:
     
     <item>
       <title>Security Definitions</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Definitions/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Definitions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Definitions/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Definitions/</guid>
       <description>Security Definitions Use this page to Register Security Definitions.
 To access this page, select Admin &amp;gt;Security &amp;gt; Security Definitions &amp;gt; Security Definitions in the Navigation pane.
          Field Description   SECURITY DEFINITION NAME Displays name of the security definition. Use the naming convention WebAppName.SecViewTables.Columns.   DATA SOURCE ID Displays name of the data source where security definition is created.   DATA VIEW Displays view used to drive the security definition.</description>
@@ -1653,10 +1653,10 @@ To access this page, select Admin &amp;gt;Security &amp;gt; Security Definition
     
     <item>
       <title>Security Definitions For User</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Definitions_For_User/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Definitions_For_User/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Definitions_For_User/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Definitions_For_User/</guid>
       <description>Security Definitions For User Use this page to Establish User-Specific Security Definitions.
 To access this page:
   Select Admin &amp;gt;Security &amp;gt; Security Definitions &amp;gt; User Specific Security Definitions in the Navigation pane.
@@ -1666,10 +1666,10 @@ To access this page:
     
     <item>
       <title>Security Role Definitions</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Role_Definitions/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Role_Definitions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Role_Definitions/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Role_Definitions/</guid>
       <description>Security Role Definitions Use this page to Assign Keys to Security Role.
 To access this page:
   Select Admin &amp;gt;Security &amp;gt; Security Definitions &amp;gt; Security Roles in the Navigation pane.
@@ -1679,10 +1679,10 @@ To access this page:
     
     <item>
       <title>Security Role WebApp Groups</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Role_WebApp_Groups/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Role_WebApp_Groups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Role_WebApp_Groups/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Role_WebApp_Groups/</guid>
       <description>Security Role WebApp Groups Use this page to Assign WebApp Groups to Security Role.
 To access this page:
   Select Admin &amp;gt;Security &amp;gt; Security Definitions &amp;gt; Security Roles in the Navigation pane.
@@ -1692,10 +1692,10 @@ To access this page:
     
     <item>
       <title>Security Roles</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Roles/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Roles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Security_Roles/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security_Roles/</guid>
       <description>Security Roles Use this page to Create Security Roles.
 To access this page, select Admin &amp;gt;Security &amp;gt; Security Definitions &amp;gt; Security Roles in the Navigation pane.
          Field Description   NAME Displays name of role. Use the naming convention WebAppName.IntendedRoleUse   DESCRIPTION Displays a description of the role, intended to supplement the Role Name by indicating how the Role is used.</description>
@@ -1703,20 +1703,20 @@ To access this page, select Admin &amp;gt;Security &amp;gt; Security Definition
     
     <item>
       <title>Security: Users Summary</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Security-Users-Summary/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security-Users-Summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Security-Users-Summary/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Security-Users-Summary/</guid>
       <description>Security: Users Summary Use this page to view a list of the number of successful logins for all users currently logged in to the DSP site.
 To access this page, select Admin &amp;gt; Security in the Navigation pane.</description>
     </item>
     
     <item>
       <title>Service Pages</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Service_Pages/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service_Pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Service_Pages/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service_Pages/</guid>
       <description>Service Pages Use this page to Stop and Start Service Pages.
 To access this page, select Admin &amp;gt; Resources &amp;gt; Service Pages in the Navigation pane.
          Field Description   WEB APP Displays the name of the WEB APP.   PAGE Displays the name of the service page.   ACTIVE If enabled, the service page will run. If disabled, the service page will not run, but can be activated for use at a later time.</description>
@@ -1724,10 +1724,10 @@ To access this page, select Admin &amp;gt; Resources &amp;gt; Service Pages in
     
     <item>
       <title>Service Providers</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Service-Providers/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service-Providers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Service-Providers/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service-Providers/</guid>
       <description>Service Providers Use this page to view service provider information.
 To access this page select Admin &amp;gt; Configuration &amp;gt; Service &amp;gt; Service Providers from the Navigation pane.
          Field Description   SERVICE NAME Displays the service name.   SERVER NAME Displays the server name.   MAXIMUM THREADS Displays the maximum number of threads for the service.   POLLING INTERVAL Displays the polling interval for the service.</description>
@@ -1735,20 +1735,20 @@ To access this page select Admin &amp;gt; Configuration &amp;gt; Service &amp;gt
     
     <item>
       <title>Service Queues</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Service-Queues/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service-Queues/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Service-Queues/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service-Queues/</guid>
       <description>Service Queues Use this page to:Add a service queue or update service queue settings.
 To access this page select Admin &amp;gt; Configuration &amp;gt; Service &amp;gt; Service Providers &amp;gt; Queues from the Navigation pane.</description>
     </item>
     
     <item>
       <title>Service: Average Job Wait Time (Past Hours)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Service_Average_Job_Wait_Time_Past_Hours/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service_Average_Job_Wait_Time_Past_Hours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Service_Average_Job_Wait_Time_Past_Hours/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service_Average_Job_Wait_Time_Past_Hours/</guid>
       <description>Service: Average Job Wait Time (Past Hours) This chart displays the average time, in seconds, a job has been waiting. Common reasons a job may wait is because it is either behind another job that should be running or it is behind a job that is stuck.
 Jobs are grouped by resource type:
  Background Event – The background service controls the job queue General – The job is on the General queue Index – The job is on the Index queue Service Page – The associated Service page controls the job queue  Hover a cursor over a chart section to view the average wait time for a job type.</description>
@@ -1756,10 +1756,10 @@ Jobs are grouped by resource type:
     
     <item>
       <title>Service: Longest Jobs (Hourly)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Service_Longest_Jobs_Hourly/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service_Longest_Jobs_Hourly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Service_Longest_Jobs_Hourly/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service_Longest_Jobs_Hourly/</guid>
       <description>Service: Longest Jobs (Hourly) This chart lists the Service pages that take the longest to run each hour. This chart is helpful to monitor potential Service pages issues.
 Refer to View Resource Charts in System Administration for more information about chart features and the data that displays on charts.
 To access this chart in System Administration, click Resources in the Navigation pane.</description>
@@ -1767,30 +1767,30 @@ To access this chart in System Administration, click Resources in the Navigation
     
     <item>
       <title>Service: Queue Health (Hourly)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Service_Queue_Health_Hourly/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service_Queue_Health_Hourly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Service_Queue_Health_Hourly/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service_Queue_Health_Hourly/</guid>
       <description>Service: Queue Health (Hourly) This chart displays the percentage of jobs in a given queue that contain errors. This chart is helpful to monitor the health of specific jobs, which are grouped by resource type:
  Background Event – The background service controls the job queue General – The job is on the General queue Index – The job is on the Index queue Service Page – The associated Service page controls the job queue  Hover a cursor over a chart data point to view details of that page, including the error rate, and date and time the job type ran.</description>
     </item>
     
     <item>
       <title>Service: Resources</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Service_Resources/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service_Resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Service_Resources/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Service_Resources/</guid>
       <description>Service: Resources This chart displays a copy of the Resources page, which provides details on the jobs that are processing, have completed, have failed and are queued up to be executed. Jobs are grouped by resource type:
  Background Event – The background service controls the job queue General – The job is on the General queue Index – The job is on the Index queue Service Page – The associated Service page controls the job queue  Click each icon to view jobs in each status for processing, completed, failed, queued and all jobs.</description>
     </item>
     
     <item>
       <title>Site Customization</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Site_Customization/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Site_Customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Site_Customization/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Site_Customization/</guid>
       <description>Site Customization Use this page to:
  Create Quick Links by Role Create Quick Links by User  To access this page, select Admin &amp;gt; Customization &amp;gt; Site Customization in Navigation pane.
 Field
@@ -1804,10 +1804,10 @@ Click to open the *Site Customization User Quick Links*page to create quick link
     
     <item>
       <title>Site Customization Role Quick Links</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Site_Customization_Role_Quick_Links/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Site_Customization_Role_Quick_Links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Site_Customization_Role_Quick_Links/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Site_Customization_Role_Quick_Links/</guid>
       <description>Site Customization Role Quick Links Use this page to Create Quick Links by Role.
 To access this page:
   Select Admin &amp;gt; Customization &amp;gt; Site Customization in the Navigation pane.
@@ -1817,10 +1817,10 @@ To access this page:
     
     <item>
       <title>Site Customization User Quick Links</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Site_Customization_User_Quick_Links/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Site_Customization_User_Quick_Links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Site_Customization_User_Quick_Links/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Site_Customization_User_Quick_Links/</guid>
       <description>Site Customization User Quick Links Use this page to Create Quick Links by User.
 To access this page:
   Select Admin &amp;gt; Customization &amp;gt; Site Customization from Navigation pane.
@@ -1830,30 +1830,30 @@ To access this page:
     
     <item>
       <title>Site Menu</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Site-Menu/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Site-Menu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Site-Menu/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Site-Menu/</guid>
       <description>Site Menu Use this page to add a link to the site menu.
 To access this page select Admin &amp;gt; Configuration &amp;gt; Site Menu from the Navigation pane.</description>
     </item>
     
     <item>
       <title>Status</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Status/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Status/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Status/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Status/</guid>
       <description>Status Use this page to View boaStatus Values.
 To access this page, click Admin &amp;gt; Configuration &amp;gt; Setup &amp;gt; Status in the Navigation pane.</description>
     </item>
     
     <item>
       <title>Stop List Words</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Stop_List_Words/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Stop_List_Words/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Stop_List_Words/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Stop_List_Words/</guid>
       <description>Stop List Words Use this page to Create Stop Lists.
 There are two ways to access this page.
 To access this page in Common:
@@ -1868,10 +1868,10 @@ To access this page in Common:
     
     <item>
       <title>Stop Lists</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Stop_Lists/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Stop_Lists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Stop_Lists/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Stop_Lists/</guid>
       <description>Stop Lists Use this page to Create Stop Lists.
 This page can be accessed in two ways.
 To access the page in Common:
@@ -1884,10 +1884,10 @@ To access the page in Common:
     
     <item>
       <title>Styles H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Styles_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Styles_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Styles_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Styles_H/</guid>
       <description>Styles H Styles V
 Use this page to Add a Style.
 To access this page, select Admin &amp;gt; Configuration &amp;gt; Style &amp;gt; Styles in the Navigation pane.
@@ -1905,10 +1905,10 @@ Displays the primary color representing the page foreground.</description>
     
     <item>
       <title>System Log</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/System-Log/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/System-Log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/System-Log/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/System-Log/</guid>
       <description>System Log Use this page to view system logs.
 To access this page, click Admin &amp;gt; Resources &amp;gt; System Logs in the Navigation pane.
          Field Description   DESCRIPTION Displays a description of the system log page that opens when the Log icon is clicked.   LOG Click to open the Access Changes, Authentication Attempts, or System Configuration Changes system log page.</description>
@@ -1916,10 +1916,10 @@ To access this page, click Admin &amp;gt; Resources &amp;gt; System Logs in the 
     
     <item>
       <title>System Logs</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/System-Logs/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/System-Logs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/System-Logs/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/System-Logs/</guid>
       <description>System Logs Use this page to:
  View system logs View a User’s Authentications, Property Changes and Access Changes  To access this page:
  Click Admin &amp;gt; Resources &amp;gt; System Logs in the Navigation pane. Click the Log icon to view the Access Changes, Authentication Attempts, or System Configuration Changes log.  OR
@@ -1928,10 +1928,10 @@ To access this page, click Admin &amp;gt; Resources &amp;gt; System Logs in the 
     
     <item>
       <title>User Group List</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/User_Group_List/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/User_Group_List/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/User_Group_List/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/User_Group_List/</guid>
       <description>User Group List Use this page to View the WebApp Groups and Pages that a User can Access.
 To access this page:
   Select Admin &amp;gt; Security &amp;gt; Users in the Navigation pane.
@@ -1941,10 +1941,10 @@ To access this page:
     
     <item>
       <title>User History Log</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/User-History-Log/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/User-History-Log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/User-History-Log/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/User-History-Log/</guid>
       <description>User History Log Use this page to View a User’s Authentications, Property Changes and Access Changes.
 To access this page:
  Select Admin &amp;gt; Security &amp;gt; Users in the Navigation pane. Click Vertical View for a user. Click the View History icon.           Field Description   USER ID Displays the user’s ID.   NAME Displays the user’s name.   Authentications Click to open the System Logs page with details specific to authentications, each time the user’s ID was used in a connection, both successful or failure.</description>
@@ -1952,10 +1952,10 @@ To access this page:
     
     <item>
       <title>User Security Definition Summary</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/User_Security_Definition_Summary/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/User_Security_Definition_Summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/User_Security_Definition_Summary/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/User_Security_Definition_Summary/</guid>
       <description>User Security Definition Summary Use this page to View a User’s Assigned Security Definitions.
 To access this page:
   Select Admin &amp;gt; Security &amp;gt; Users in the Navigation pane.
@@ -1965,10 +1965,10 @@ To access this page:
     
     <item>
       <title>User Specific Keys</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/User_Specific_Keys/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/User_Specific_Keys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/User_Specific_Keys/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/User_Specific_Keys/</guid>
       <description>User Specific Keys Use this page to Establish User Specific Security Definitions.
 To access this page:
  Select Admin &amp;gt; Security &amp;gt; Security Definitions &amp;gt; User Specific Security Definitions in Navigation pane. Click Definitions for NAME (i.e, a specific user). Click Keys for a SECURITY DEFINITION NAME.           Field Description   SECURITY DEFINITION KEY ID Displays a key used to restrict user access.</description>
@@ -1976,10 +1976,10 @@ To access this page:
     
     <item>
       <title>User Specific Security Definitions</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/User_Specific_Security_Definitions/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/User_Specific_Security_Definitions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/User_Specific_Security_Definitions/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/User_Specific_Security_Definitions/</guid>
       <description>User Specific Security Definitions Use this page to Establish User-Specific Security Definitions.
 To access this page:
   Select Admin &amp;gt;Security &amp;gt; Security Definitions &amp;gt; User Specific Security Definitions in Navigation pane.
@@ -1989,10 +1989,10 @@ To access this page:
     
     <item>
       <title>Users (Current)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Users-Current/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Users-Current/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Users-Current/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Users-Current/</guid>
       <description>Users (Current) Use this page to view a list of users currently logged in to the DSP®.
 To access this page, select Admin &amp;gt; Resources &amp;gt; Users (Current) in the Navigation pane.
          Field Description   USER ID Displays the ID of the active user.   NAME Displays the name of the active user.   LAST ACCESSED Displays the date and time the current session began.</description>
@@ -2000,10 +2000,10 @@ To access this page, select Admin &amp;gt; Resources &amp;gt; Users (Current) in
     
     <item>
       <title>Users (Locked)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Users-Locked/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Users-Locked/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Users-Locked/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Users-Locked/</guid>
       <description>Users (Locked) Use this page to Unlock User Accounts.
 To access this page, select Security &amp;gt; Users (Locked) in the Navigation pane.
          Field Description   Unlock Click to unlock the selected user account, allowing the user to log in.   USER ID Displays the user ID of the locked user.   NAME Displays the name of the locked user.</description>
@@ -2011,10 +2011,10 @@ To access this page, select Security &amp;gt; Users (Locked) in the Navigation p
     
     <item>
       <title>Users H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Users_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Users_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Users_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Users_H/</guid>
       <description>Users H Users V
 Use this page to Create User Accounts.
 NOTE:Bulk Execution has been enabled on this page. See the Bulk Execution topic in System Administration for more information.
@@ -2024,10 +2024,10 @@ To access this page, select Admin &amp;gt; Security &amp;gt; Users in the Nav
     
     <item>
       <title>WebApp (Users)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Users/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Users/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Users/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Users/</guid>
       <description>WebApp (Users) Use this page to:
  Assign Users to a WebApp for Custom Application Development/Customizations Grant Users Access to Post Monitor Group in Integrate Assign Users to WebApp Groups  To access this page:
  Select Admin &amp;gt; Security &amp;gt; WebApp Security in the Navigation pane. Click the Users icon for the WebApp.           Field Description   USER ID Displays ID associated with the user used to log in to the Platform.</description>
@@ -2035,10 +2035,10 @@ To access this page, select Admin &amp;gt; Security &amp;gt; Users in the Nav
     
     <item>
       <title>WebApp Catalogs H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Catalogs/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Catalogs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Catalogs/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Catalogs/</guid>
       <description>WebApp Catalogs H WebApp Catalogs V
 Use this page to Assign a Catalog to a Custom WebApp.
 To access this page:
@@ -2049,10 +2049,10 @@ To access this page:
     
     <item>
       <title>WebApp Customization</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Customization/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Customization/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Customization/</guid>
       <description>WebApp Customization Use this page to:
  Add a Catalog to a Delivered WebApp Add Custom Links to a Page Customize Dashboard Pages  To access this page, select Admin &amp;gt; Customization &amp;gt; WebApp Customization in the Navigation pane.
          Field Description   WEB APP NAME Displays the WebApp name where customizations are made.   Catalogs Click to open the Catalog Extension page to add, edit and delete catalogs for custom WebApps.</description>
@@ -2060,10 +2060,10 @@ To access this page:
     
     <item>
       <title>WebApp Group Users</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Group_Users/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Group_Users/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Group_Users/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Group_Users/</guid>
       <description>WebApp Group Users Use this page to Assign Users to WebApp Groups.
 To access this page:
   Select to Admin &amp;gt;Security &amp;gt; WebApp Security in the Navigation pane.
@@ -2074,10 +2074,10 @@ To access this page:
     
     <item>
       <title>WebApp Groups H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Groups_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Groups_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Groups_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Groups_H/</guid>
       <description>WebApp Groups H WebApp Groups V
 Use this page to Create WebApp Groups using the WebApp Groups Page.
 To access this page:
@@ -2088,10 +2088,10 @@ To access this page:
     
     <item>
       <title>WebApp Security</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Security/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Security/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Security/</guid>
       <description>WebApp Security Use this page to Assign Users to a WebApp for Custom Application Development/Customizations.
 To access this page:
   Select Admin &amp;gt;Security &amp;gt; WebApp Security in the Navigation pane.
@@ -2101,10 +2101,10 @@ To access this page:
     
     <item>
       <title>WebApp Users (Groups)</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Users_Groups/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Users_Groups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApp_Users_Groups/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApp_Users_Groups/</guid>
       <description>WebApp Users (Groups) Use this page to
  Grant Users Access to Post Monitor Group in Integrate. Assign Users to WebApp Groups  To access this page, select Admin &amp;gt;WebApps in the Navigation pane.
          Field Description   GROUP ID Displays name of the security group where user is assigned. Authorization is determined by security groups.   USER NAME Displays name of user associated with the User ID.</description>
@@ -2112,10 +2112,10 @@ To access this page:
     
     <item>
       <title>WebApps H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApps_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApps_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/WebApps_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/WebApps_H/</guid>
       <description>WebApps H WebApps V
 Use this page to Create a WebApp.
 To access this page, select Admin &amp;gt; WebApps in the Navigation pane.
@@ -2124,10 +2124,10 @@ To access this page, select Admin &amp;gt; WebApps in the Navigation pane.
     
     <item>
       <title>Workflow Links</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Workflow_Links/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Workflow_Links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Workflow_Links/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Workflow_Links/</guid>
       <description>Workflow Links Use this page to Configure Workflow Links.
 To access this page:
   Select Admin &amp;gt;WebApps in the Navigation pane.
@@ -2141,10 +2141,10 @@ To access this page:
     
     <item>
       <title>Workflow Log H</title>
-      <link>https://hcloward.github.io/Sys_Admin/Page_Desc/Workflow-Log-H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Workflow-Log-H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Sys_Admin/Page_Desc/Workflow-Log-H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Sys_Admin/Page_Desc/Workflow-Log-H/</guid>
       <description>Workflow Log H Workflow Log V
 Use this page to View the Workflow Log.
 To access this page, select Admin &amp;gt; Resources &amp;gt; Workflow Log.

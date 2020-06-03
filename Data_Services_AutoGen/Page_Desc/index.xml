@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Syniti Documentation</title>
-    <link>https://hcloward.github.io/Data_Services_AutoGen/Page_Desc/</link>
+    <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Data_Services_AutoGen/Page_Desc/</link>
     <description>Recent content in Pages on Syniti Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://hcloward.github.io/Data_Services_AutoGen/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hcloward.github.io/HCloward.github.io-syniti-hugo/Data_Services_AutoGen/Page_Desc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AutoGen BODS Requests H</title>
-      <link>https://hcloward.github.io/Data_Services_AutoGen/Page_Desc/AutoGen_BODS_Requests_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Data_Services_AutoGen/Page_Desc/AutoGen_BODS_Requests_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Data_Services_AutoGen/Page_Desc/AutoGen_BODS_Requests_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Data_Services_AutoGen/Page_Desc/AutoGen_BODS_Requests_H/</guid>
       <description>AutoGen BODS Requests H AutoGen BODS Requests V
 Use this page to Build and Refresh Data Services Jobs.
 To access this page:
@@ -24,10 +24,10 @@ To access this page:
     
     <item>
       <title>AutoGen Data Services</title>
-      <link>https://hcloward.github.io/Data_Services_AutoGen/Page_Desc/AutoGen_Data_Services/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Data_Services_AutoGen/Page_Desc/AutoGen_Data_Services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Data_Services_AutoGen/Page_Desc/AutoGen_Data_Services/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Data_Services_AutoGen/Page_Desc/AutoGen_Data_Services/</guid>
       <description>AutoGen Data Services Use this page to Build and Refresh Data Services Jobs.
 To access this page:
  Click the Automation tab in the Quick Panel. Select the Object for which the request is being generated. Click the Build and Refresh Data Services icon in the Page toolbar; the AutoGen Data Services page displays.           Field Description   Object Displays the name of the object as created in Console.</description>
@@ -35,10 +35,10 @@ To access this page:
     
     <item>
       <title>Data Services Datastores Mappings H</title>
-      <link>https://hcloward.github.io/Data_Services_AutoGen/Page_Desc/Data_Services_Datastores_Mappings_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Data_Services_AutoGen/Page_Desc/Data_Services_Datastores_Mappings_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Data_Services_AutoGen/Page_Desc/Data_Services_Datastores_Mappings_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Data_Services_AutoGen/Page_Desc/Data_Services_Datastores_Mappings_H/</guid>
       <description>Data Services Datastores Mappings H Data Services Datastores Mappings V
 Use this page to Configure a Data Services Datastore.
 To access this page:
@@ -47,10 +47,10 @@ To access this page:
     
     <item>
       <title>Data Services Repositories H</title>
-      <link>https://hcloward.github.io/Data_Services_AutoGen/Page_Desc/Data_Services_Repositories_H/</link>
+      <link>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Data_Services_AutoGen/Page_Desc/Data_Services_Repositories_H/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/Data_Services_AutoGen/Page_Desc/Data_Services_Repositories_H/</guid>
+      <guid>https://hcloward.github.io/HCloward.github.io-syniti-hugo/Data_Services_AutoGen/Page_Desc/Data_Services_Repositories_H/</guid>
       <description>Data Services Repositories H Data Services Repositories V
 Use this page to Configure a Data Services Repository.
 To access this page:
